@@ -1,0 +1,68 @@
+#
+# VulKan ToolS objects.
+#
+
+camera_library textured_cube_cameras.vkts
+
+light_library textured_cube_lights.vkts
+
+particle_system_library textured_cube_particles.vkts
+
+mesh_library textured_cube_meshes.vkts
+
+animation_library textured_cube_animations.vkts
+
+#
+# Object.
+#
+
+name Cube
+
+# Node.
+
+node Cube -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 0.000000 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh Cube_Mesh
+
+animation animation_Cube
+
+#
+# Object.
+#
+
+name Lamp
+
+# Node.
+
+node Lamp -
+
+layers 1
+
+translate 5.000000 5.000000 5.000000
+rotate 37.261049 106.936310 -3.163709
+scale 1.000000 1.000000 1.000000
+
+#
+# Object.
+#
+
+name Camera
+
+# Node.
+
+node Camera -
+
+layers 1
+
+translate 7.481132 5.343665 6.507640
+rotate 63.559295 46.691945 -0.619765
+scale 1.000000 1.000000 1.000000
+
+camera Camera
+

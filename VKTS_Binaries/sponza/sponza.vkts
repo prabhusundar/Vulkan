@@ -1,0 +1,4604 @@
+#
+# VulKan ToolS scene.
+#
+
+scene_name Scene
+
+object_library sponza_objects.vkts
+
+#
+# Object instance.
+#
+
+object sponza_118
+
+name sponza_118
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_07
+
+name sponza_07
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_382
+
+name sponza_382
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_257
+
+name sponza_257
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_121
+
+name sponza_121
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_72
+
+name sponza_72
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_362
+
+name sponza_362
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_307
+
+name sponza_307
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_18
+
+name sponza_18
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_333
+
+name sponza_333
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_50
+
+name sponza_50
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_05
+
+name sponza_05
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_270
+
+name sponza_270
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_176
+
+name sponza_176
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_77
+
+name sponza_77
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_150
+
+name sponza_150
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_183
+
+name sponza_183
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_49
+
+name sponza_49
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_26
+
+name sponza_26
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_03
+
+name sponza_03
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_15
+
+name sponza_15
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_117
+
+name sponza_117
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_303
+
+name sponza_303
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_226
+
+name sponza_226
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_372
+
+name sponza_372
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_202
+
+name sponza_202
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_78
+
+name sponza_78
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_126
+
+name sponza_126
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_64
+
+name sponza_64
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_218
+
+name sponza_218
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_130
+
+name sponza_130
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_208
+
+name sponza_208
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_152
+
+name sponza_152
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_279
+
+name sponza_279
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_273
+
+name sponza_273
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_01
+
+name sponza_01
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_25
+
+name sponza_25
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_59
+
+name sponza_59
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_274
+
+name sponza_274
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_271
+
+name sponza_271
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_348
+
+name sponza_348
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_364
+
+name sponza_364
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_243
+
+name sponza_243
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_352
+
+name sponza_352
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_346
+
+name sponza_346
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_19
+
+name sponza_19
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_200
+
+name sponza_200
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_289
+
+name sponza_289
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_377
+
+name sponza_377
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_258
+
+name sponza_258
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_136
+
+name sponza_136
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_162
+
+name sponza_162
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_323
+
+name sponza_323
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_233
+
+name sponza_233
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_291
+
+name sponza_291
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_113
+
+name sponza_113
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_124
+
+name sponza_124
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_68
+
+name sponza_68
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_194
+
+name sponza_194
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_12
+
+name sponza_12
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_31
+
+name sponza_31
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_166
+
+name sponza_166
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_355
+
+name sponza_355
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_223
+
+name sponza_223
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_245
+
+name sponza_245
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_227
+
+name sponza_227
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_75
+
+name sponza_75
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_309
+
+name sponza_309
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_327
+
+name sponza_327
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_178
+
+name sponza_178
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_157
+
+name sponza_157
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_187
+
+name sponza_187
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_315
+
+name sponza_315
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_171
+
+name sponza_171
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_153
+
+name sponza_153
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_242
+
+name sponza_242
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_237
+
+name sponza_237
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_198
+
+name sponza_198
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_351
+
+name sponza_351
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_37
+
+name sponza_37
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_306
+
+name sponza_306
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_324
+
+name sponza_324
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_101
+
+name sponza_101
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_264
+
+name sponza_264
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_325
+
+name sponza_325
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_147
+
+name sponza_147
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_251
+
+name sponza_251
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_139
+
+name sponza_139
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_170
+
+name sponza_170
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_368
+
+name sponza_368
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_211
+
+name sponza_211
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_62
+
+name sponza_62
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_71
+
+name sponza_71
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_252
+
+name sponza_252
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_304
+
+name sponza_304
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_57
+
+name sponza_57
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_275
+
+name sponza_275
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_123
+
+name sponza_123
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_81
+
+name sponza_81
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_290
+
+name sponza_290
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_142
+
+name sponza_142
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_239
+
+name sponza_239
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_240
+
+name sponza_240
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_238
+
+name sponza_238
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_216
+
+name sponza_216
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_45
+
+name sponza_45
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_330
+
+name sponza_330
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_261
+
+name sponza_261
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_145
+
+name sponza_145
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_326
+
+name sponza_326
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_214
+
+name sponza_214
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_222
+
+name sponza_222
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_229
+
+name sponza_229
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_282
+
+name sponza_282
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_00
+
+name sponza_00
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_38
+
+name sponza_38
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_347
+
+name sponza_347
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_370
+
+name sponza_370
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_46
+
+name sponza_46
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_110
+
+name sponza_110
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_56
+
+name sponza_56
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_60
+
+name sponza_60
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_186
+
+name sponza_186
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_114
+
+name sponza_114
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_363
+
+name sponza_363
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_296
+
+name sponza_296
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_331
+
+name sponza_331
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_167
+
+name sponza_167
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_85
+
+name sponza_85
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_247
+
+name sponza_247
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_09
+
+name sponza_09
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_115
+
+name sponza_115
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_146
+
+name sponza_146
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_360
+
+name sponza_360
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_217
+
+name sponza_217
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_36
+
+name sponza_36
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_320
+
+name sponza_320
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_210
+
+name sponza_210
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_39
+
+name sponza_39
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_337
+
+name sponza_337
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_232
+
+name sponza_232
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_22
+
+name sponza_22
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_381
+
+name sponza_381
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_73
+
+name sponza_73
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_95
+
+name sponza_95
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_21
+
+name sponza_21
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_287
+
+name sponza_287
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_69
+
+name sponza_69
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_378
+
+name sponza_378
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_379
+
+name sponza_379
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_80
+
+name sponza_80
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_42
+
+name sponza_42
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_163
+
+name sponza_163
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_204
+
+name sponza_204
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_209
+
+name sponza_209
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_84
+
+name sponza_84
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_356
+
+name sponza_356
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_137
+
+name sponza_137
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_134
+
+name sponza_134
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_96
+
+name sponza_96
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_74
+
+name sponza_74
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_109
+
+name sponza_109
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_184
+
+name sponza_184
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_329
+
+name sponza_329
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_342
+
+name sponza_342
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_248
+
+name sponza_248
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_160
+
+name sponza_160
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_181
+
+name sponza_181
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_193
+
+name sponza_193
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_297
+
+name sponza_297
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_43
+
+name sponza_43
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_119
+
+name sponza_119
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_358
+
+name sponza_358
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_267
+
+name sponza_267
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_94
+
+name sponza_94
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_317
+
+name sponza_317
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_302
+
+name sponza_302
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_280
+
+name sponza_280
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_63
+
+name sponza_63
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_116
+
+name sponza_116
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_206
+
+name sponza_206
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_225
+
+name sponza_225
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_107
+
+name sponza_107
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_67
+
+name sponza_67
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_11
+
+name sponza_11
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_231
+
+name sponza_231
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_263
+
+name sponza_263
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_215
+
+name sponza_215
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_140
+
+name sponza_140
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_314
+
+name sponza_314
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_366
+
+name sponza_366
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_343
+
+name sponza_343
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_254
+
+name sponza_254
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_286
+
+name sponza_286
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_87
+
+name sponza_87
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_266
+
+name sponza_266
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_332
+
+name sponza_332
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_281
+
+name sponza_281
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_158
+
+name sponza_158
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_173
+
+name sponza_173
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_219
+
+name sponza_219
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_250
+
+name sponza_250
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_268
+
+name sponza_268
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_120
+
+name sponza_120
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_23
+
+name sponza_23
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_135
+
+name sponza_135
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_53
+
+name sponza_53
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_340
+
+name sponza_340
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_321
+
+name sponza_321
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_276
+
+name sponza_276
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_82
+
+name sponza_82
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_14
+
+name sponza_14
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_312
+
+name sponza_312
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_148
+
+name sponza_148
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_236
+
+name sponza_236
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_47
+
+name sponza_47
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_86
+
+name sponza_86
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_52
+
+name sponza_52
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_272
+
+name sponza_272
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_155
+
+name sponza_155
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_298
+
+name sponza_298
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_278
+
+name sponza_278
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_92
+
+name sponza_92
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_156
+
+name sponza_156
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_269
+
+name sponza_269
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_318
+
+name sponza_318
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_66
+
+name sponza_66
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_108
+
+name sponza_108
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_93
+
+name sponza_93
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_220
+
+name sponza_220
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_99
+
+name sponza_99
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_106
+
+name sponza_106
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_30
+
+name sponza_30
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_51
+
+name sponza_51
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_359
+
+name sponza_359
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_221
+
+name sponza_221
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_285
+
+name sponza_285
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_322
+
+name sponza_322
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_165
+
+name sponza_165
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_138
+
+name sponza_138
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_169
+
+name sponza_169
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_24
+
+name sponza_24
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_230
+
+name sponza_230
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_32
+
+name sponza_32
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_154
+
+name sponza_154
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_44
+
+name sponza_44
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_164
+
+name sponza_164
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_334
+
+name sponza_334
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_16
+
+name sponza_16
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_295
+
+name sponza_295
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_301
+
+name sponza_301
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_182
+
+name sponza_182
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_292
+
+name sponza_292
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_213
+
+name sponza_213
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_260
+
+name sponza_260
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_191
+
+name sponza_191
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_199
+
+name sponza_199
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_283
+
+name sponza_283
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_27
+
+name sponza_27
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_228
+
+name sponza_228
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_90
+
+name sponza_90
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_265
+
+name sponza_265
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_54
+
+name sponza_54
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_212
+
+name sponza_212
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_125
+
+name sponza_125
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_192
+
+name sponza_192
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_122
+
+name sponza_122
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_205
+
+name sponza_205
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_256
+
+name sponza_256
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_246
+
+name sponza_246
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_207
+
+name sponza_207
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_288
+
+name sponza_288
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_17
+
+name sponza_17
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_190
+
+name sponza_190
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_353
+
+name sponza_353
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_376
+
+name sponza_376
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_371
+
+name sponza_371
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_40
+
+name sponza_40
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_34
+
+name sponza_34
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_373
+
+name sponza_373
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_06
+
+name sponza_06
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_305
+
+name sponza_305
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_195
+
+name sponza_195
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_179
+
+name sponza_179
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_344
+
+name sponza_344
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_161
+
+name sponza_161
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_79
+
+name sponza_79
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_311
+
+name sponza_311
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_127
+
+name sponza_127
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_76
+
+name sponza_76
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_374
+
+name sponza_374
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_111
+
+name sponza_111
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_112
+
+name sponza_112
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_132
+
+name sponza_132
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_249
+
+name sponza_249
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_08
+
+name sponza_08
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_365
+
+name sponza_365
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_255
+
+name sponza_255
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_203
+
+name sponza_203
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_128
+
+name sponza_128
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_310
+
+name sponza_310
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_48
+
+name sponza_48
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_104
+
+name sponza_104
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_174
+
+name sponza_174
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_102
+
+name sponza_102
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_338
+
+name sponza_338
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_58
+
+name sponza_58
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_336
+
+name sponza_336
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_20
+
+name sponza_20
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_300
+
+name sponza_300
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_100
+
+name sponza_100
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_341
+
+name sponza_341
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_299
+
+name sponza_299
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_97
+
+name sponza_97
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_129
+
+name sponza_129
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_308
+
+name sponza_308
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_319
+
+name sponza_319
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_277
+
+name sponza_277
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_313
+
+name sponza_313
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_133
+
+name sponza_133
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_159
+
+name sponza_159
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_65
+
+name sponza_65
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_144
+
+name sponza_144
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_141
+
+name sponza_141
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_189
+
+name sponza_189
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_105
+
+name sponza_105
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_70
+
+name sponza_70
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_335
+
+name sponza_335
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_149
+
+name sponza_149
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_244
+
+name sponza_244
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_328
+
+name sponza_328
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_345
+
+name sponza_345
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_235
+
+name sponza_235
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_175
+
+name sponza_175
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_253
+
+name sponza_253
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_293
+
+name sponza_293
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_41
+
+name sponza_41
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_177
+
+name sponza_177
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_349
+
+name sponza_349
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_367
+
+name sponza_367
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_259
+
+name sponza_259
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_354
+
+name sponza_354
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_316
+
+name sponza_316
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_172
+
+name sponza_172
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_143
+
+name sponza_143
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_103
+
+name sponza_103
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_131
+
+name sponza_131
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_29
+
+name sponza_29
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_188
+
+name sponza_188
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_35
+
+name sponza_35
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_55
+
+name sponza_55
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_339
+
+name sponza_339
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_91
+
+name sponza_91
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_361
+
+name sponza_361
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_98
+
+name sponza_98
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_168
+
+name sponza_168
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_33
+
+name sponza_33
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_13
+
+name sponza_13
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_83
+
+name sponza_83
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_234
+
+name sponza_234
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_10
+
+name sponza_10
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_262
+
+name sponza_262
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_201
+
+name sponza_201
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_357
+
+name sponza_357
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_185
+
+name sponza_185
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_350
+
+name sponza_350
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_151
+
+name sponza_151
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_88
+
+name sponza_88
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_89
+
+name sponza_89
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_28
+
+name sponza_28
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_241
+
+name sponza_241
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_197
+
+name sponza_197
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_196
+
+name sponza_196
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_375
+
+name sponza_375
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_224
+
+name sponza_224
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_180
+
+name sponza_180
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_61
+
+name sponza_61
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_284
+
+name sponza_284
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_369
+
+name sponza_369
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_380
+
+name sponza_380
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object sponza_294
+
+name sponza_294
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object Lamp
+
+name Lamp
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object Camera
+
+name Camera
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+

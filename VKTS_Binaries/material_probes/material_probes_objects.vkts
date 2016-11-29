@@ -1,0 +1,982 @@
+#
+# VulKan ToolS objects.
+#
+
+camera_library material_probes_cameras.vkts
+
+light_library material_probes_lights.vkts
+
+particle_system_library material_probes_particles.vkts
+
+mesh_library material_probes_meshes.vkts
+
+animation_library material_probes_animations.vkts
+
+#
+# Object.
+#
+
+name Floor_CyberWarrior
+
+# Node.
+
+node Floor_CyberWarrior -
+
+layers 1
+
+translate 30.000000 0.000000 -7.000000
+rotate 0.000000 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh Floor_CyberWarrior
+
+#
+# Object.
+#
+
+name MaterialProbe_Left
+
+# Node.
+
+node MaterialProbe_Left -
+
+layers 1
+
+translate -5.000000 0.000000 1.000000
+rotate 0.000000 35.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh MaterialProbe_Left
+
+#
+# Object.
+#
+
+name MaterialProbe_Right
+
+# Node.
+
+node MaterialProbe_Right -
+
+layers 1
+
+translate 5.000000 0.000000 1.000000
+rotate 0.000000 -35.000000 -0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh MaterialProbe_Right
+
+#
+# Object.
+#
+
+name MaterialProbe_Middle
+
+# Node.
+
+node MaterialProbe_Middle -
+
+layers 1
+
+translate 0.000000 0.000000 1.000000
+rotate 0.000000 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh MaterialProbe_Middle
+
+#
+# Object.
+#
+
+name Lamp
+
+# Node.
+
+node Lamp -
+
+layers 1
+
+translate 4.000000 4.000000 4.000000
+rotate 45.000018 45.000018 -0.000001
+scale 1.000000 1.000000 1.000000
+
+light Lamp
+
+#
+# Object.
+#
+
+name Floor_Probes
+
+# Node.
+
+node Floor_Probes -
+
+layers 1
+
+translate 0.000000 0.000000 -7.000000
+rotate 0.000000 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh Floor_Probes
+
+#
+# Object.
+#
+
+name Camera
+
+# Node.
+
+node Camera -
+
+layers 1
+
+translate 10.000000 8.000000 12.000000
+rotate 65.000048 39.999999 0.000004
+scale 1.000000 1.000000 1.000000
+
+camera Camera
+
+#
+# Object.
+#
+
+name CyberWarriorNode
+
+# Node.
+
+node CyberWarriorNode -
+
+layers 1
+
+translate 30.000000 0.000000 -0.000000
+rotate 0.000000 0.000000 0.000000
+scale 0.030000 0.030000 0.030000
+
+joints 52
+
+# Node.
+
+node Cyber_warrior_for_substance:Hips CyberWarriorNode
+
+translate 0.182341 -3.032570 -1.611105
+rotate -5.080520 -43.234138 0.893368
+scale 1.000000 1.000000 1.000000
+
+jointIndex 0
+
+bind_translate -0.033848 105.575684 0.974360
+bind_rotate 0.000011 -0.000000 0.000000
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:Hips
+
+# Node.
+
+node Cyber_warrior_for_substance:Spine Cyber_warrior_for_substance:Hips
+
+translate 0.000000 0.000060 0.000053
+rotate 5.811712 4.990056 -0.341463
+scale 1.000000 1.000000 1.000000
+
+jointIndex 1
+
+bind_translate 0.000000 10.413338 -1.973898
+bind_rotate -10.733079 0.000000 0.000000
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:Spine
+
+# Node.
+
+node Cyber_warrior_for_substance:Spine1 Cyber_warrior_for_substance:Spine
+
+translate 0.000000 -0.000011 -0.000121
+rotate 11.642795 9.526265 0.611244
+scale 1.000000 1.000000 1.000000
+
+jointIndex 2
+
+bind_translate -0.000000 12.365304 0.000120
+bind_rotate 0.000053 0.000000 -0.000000
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:Spine1
+
+# Node.
+
+node Cyber_warrior_for_substance:Spine2 Cyber_warrior_for_substance:Spine1
+
+translate 0.000000 0.000000 0.000000
+rotate 11.642846 9.526269 0.611255
+scale 1.000000 1.000000 1.000000
+
+jointIndex 3
+
+bind_translate 0.000000 14.131780 0.000001
+bind_rotate -0.000002 -0.000000 0.000000
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:Spine2
+
+# Node.
+
+node Cyber_warrior_for_substance:Neck Cyber_warrior_for_substance:Spine2
+
+translate -0.000000 -0.000042 0.000096
+rotate -4.308655 -1.253878 0.301308
+scale 1.000000 1.000000 1.000000
+
+jointIndex 4
+
+bind_translate 0.000000 15.898272 -0.000087
+bind_rotate 10.733030 0.000000 0.000000
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:Neck
+
+# Node.
+
+node Cyber_warrior_for_substance:Head Cyber_warrior_for_substance:Neck
+
+translate 0.000000 -0.000015 -0.000000
+rotate -6.827992 20.265665 -2.730575
+scale 1.000000 1.000000 1.000000
+
+jointIndex 5
+
+bind_translate 0.000000 5.386152 1.489243
+bind_rotate 0.000000 0.000000 0.000000
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:Head
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftShoulder Cyber_warrior_for_substance:Spine2
+
+translate -0.000263 -0.000051 -0.000014
+rotate 7.757386 1.628185 -1.219859
+scale 1.000000 1.000001 1.000000
+
+jointIndex 6
+
+bind_translate 7.800567 13.719760 -0.416201
+bind_rotate 106.300065 92.922811 1.455804
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:LeftShoulder
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftArm Cyber_warrior_for_substance:LeftShoulder
+
+translate 0.000165 0.000008 0.000072
+rotate 55.548726 -12.380095 -3.713968
+scale 1.000000 1.000000 1.000000
+
+jointIndex 7
+
+bind_translate -0.000166 16.121321 -0.000060
+bind_rotate -5.726661 0.000021 -2.111020
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:LeftArm
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftForeArm Cyber_warrior_for_substance:LeftArm
+
+translate -0.000063 -0.000025 -0.000007
+rotate 24.302278 -0.851938 11.891844
+scale 1.000000 0.999999 1.000000
+
+jointIndex 8
+
+bind_translate 0.000042 24.307278 0.000055
+bind_rotate -10.724893 -22.653820 26.185267
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:LeftForeArm
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftHand Cyber_warrior_for_substance:LeftForeArm
+
+translate -0.000033 0.000042 0.000092
+rotate -16.268329 7.420074 -0.396574
+scale 1.000000 1.000000 1.000000
+
+jointIndex 9
+
+bind_translate -0.000021 20.346567 -0.000074
+bind_rotate -8.699801 37.397424 -10.365132
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:LeftHand
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftHandThumb1 Cyber_warrior_for_substance:LeftHand
+
+translate 0.000054 -0.000050 0.000111
+rotate 30.540617 5.957534 -12.879045
+scale 1.000000 1.000000 1.000000
+
+jointIndex 10
+
+bind_translate -4.002939 5.001672 0.131635
+bind_rotate 1.185342 0.000101 45.112132
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:LeftHandThumb1
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftHandThumb2 Cyber_warrior_for_substance:LeftHandThumb1
+
+translate 0.000034 0.000012 0.000006
+rotate -6.925572 -3.093184 -20.415292
+scale 1.000000 1.000000 1.000000
+
+jointIndex 11
+
+bind_translate 0.574927 5.093696 -0.000002
+bind_rotate 8.631793 -0.000007 -0.000029
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:LeftHandThumb2
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftHandThumb3 Cyber_warrior_for_substance:LeftHandThumb2
+
+translate -0.000051 -0.000040 -0.000042
+rotate 9.321414 -3.432124 22.624981
+scale 1.000000 1.000000 1.000000
+
+jointIndex 12
+
+bind_translate -1.124850 4.511718 0.000033
+bind_rotate -10.029354 -0.000043 -0.000029
+bind_scale 1.000000 1.000000 1.000000
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftHandIndex1 Cyber_warrior_for_substance:LeftHand
+
+translate 0.000143 -0.000059 0.000090
+rotate -6.468770 -0.089284 -2.127264
+scale 1.000000 1.000000 1.000000
+
+jointIndex 13
+
+bind_translate -5.708913 17.771210 0.196209
+bind_rotate 8.090831 0.000020 17.672367
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:LeftHandIndex1
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftHandIndex2 Cyber_warrior_for_substance:LeftHandIndex1
+
+translate -0.000018 -0.000070 -0.000037
+rotate 26.752574 0.817857 -0.738329
+scale 1.000000 1.000001 1.000000
+
+jointIndex 14
+
+bind_translate -0.001106 3.767263 0.000032
+bind_rotate -10.566518 -0.000005 0.000015
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:LeftHandIndex2
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftHandIndex3 Cyber_warrior_for_substance:LeftHandIndex2
+
+translate -0.000008 0.000132 0.000053
+rotate -7.881774 -0.002530 -0.028216
+scale 1.000000 1.000000 1.000000
+
+jointIndex 15
+
+bind_translate 0.001370 3.349280 -0.000058
+bind_rotate 7.881792 0.000001 0.000011
+bind_scale 1.000000 1.000000 1.000000
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftHandMiddle1 Cyber_warrior_for_substance:LeftHand
+
+translate 0.000087 -0.000006 0.000036
+rotate -0.176247 1.429362 -1.514349
+scale 1.000000 1.000000 1.000000
+
+jointIndex 16
+
+bind_translate -1.707918 18.103714 -0.754035
+bind_rotate 10.942945 -0.000016 0.534291
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:LeftHandMiddle1
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftHandMiddle2 Cyber_warrior_for_substance:LeftHandMiddle1
+
+translate -0.000030 0.000122 0.000028
+rotate 37.694759 -0.086045 0.832875
+scale 1.000000 1.000000 1.000000
+
+jointIndex 17
+
+bind_translate 0.002757 4.649850 -0.000005
+bind_rotate -13.991094 -0.000010 -0.000055
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:LeftHandMiddle2
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftHandMiddle3 Cyber_warrior_for_substance:LeftHandMiddle2
+
+translate 0.000127 0.000018 -0.000097
+rotate 0.000024 0.000006 -0.000026
+scale 1.000000 1.000000 1.000000
+
+jointIndex 18
+
+bind_translate -0.001741 4.224288 0.000123
+bind_rotate 1.366807 0.000001 0.000018
+bind_scale 1.000000 1.000000 1.000000
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftHandRing1 Cyber_warrior_for_substance:LeftHand
+
+translate -0.000023 -0.000028 0.000059
+rotate 12.555948 2.491030 8.004194
+scale 1.000000 1.000000 1.000000
+
+jointIndex 19
+
+bind_translate 2.163465 17.585951 -0.514742
+bind_rotate 14.566534 -0.000030 -14.491670
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:LeftHandRing1
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftHandRing2 Cyber_warrior_for_substance:LeftHandRing1
+
+translate 0.000030 0.000096 -0.000063
+rotate 48.060688 0.599359 -0.568250
+scale 1.000000 1.000000 1.000000
+
+jointIndex 20
+
+bind_translate 0.007375 3.940116 0.000102
+bind_rotate -15.008326 0.000007 0.000011
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:LeftHandRing2
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftHandRing3 Cyber_warrior_for_substance:LeftHandRing2
+
+translate 0.000010 -0.000021 -0.000017
+rotate -0.000064 0.000000 0.000002
+scale 1.000000 1.000000 1.000000
+
+jointIndex 21
+
+bind_translate -0.003223 3.691352 0.000029
+bind_rotate -1.969100 0.000006 -0.000013
+bind_scale 1.000000 1.000000 1.000000
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftHandPinky1 Cyber_warrior_for_substance:LeftHand
+
+translate 0.000081 0.000071 -0.000084
+rotate 38.840082 3.161810 26.120988
+scale 1.000000 1.000000 1.000000
+
+jointIndex 22
+
+bind_translate 5.253065 15.951988 0.572220
+bind_rotate -8.463202 -0.000017 -32.460054
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:LeftHandPinky1
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftHandPinky2 Cyber_warrior_for_substance:LeftHandPinky1
+
+translate -0.000061 0.000042 0.000171
+rotate 22.086260 1.828683 3.872433
+scale 1.000000 1.000000 1.000000
+
+jointIndex 23
+
+bind_translate -0.007038 3.353812 -0.000189
+bind_rotate 18.157257 -0.000034 -0.000007
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:LeftHandPinky2
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftHandPinky3 Cyber_warrior_for_substance:LeftHandPinky2
+
+translate -0.000014 0.000008 0.000114
+rotate 13.193622 0.035820 -0.228381
+scale 1.000000 1.000000 1.000000
+
+jointIndex 24
+
+bind_translate 0.008280 2.503958 -0.000117
+bind_rotate -13.193796 -0.000052 -0.000029
+bind_scale 1.000000 1.000000 1.000000
+
+# Node.
+
+node Cyber_warrior_for_substance:RightShoulder Cyber_warrior_for_substance:Spine2
+
+translate 0.000073 -0.000009 0.000115
+rotate 11.580307 -3.898434 -6.760744
+scale 1.000000 1.000000 0.999999
+
+jointIndex 25
+
+bind_translate -7.800570 13.718795 -0.410192
+bind_rotate 106.331709 -92.880123 -1.479405
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:RightShoulder
+
+# Node.
+
+node Cyber_warrior_for_substance:RightArm Cyber_warrior_for_substance:RightShoulder
+
+translate 0.000000 0.000000 0.000000
+rotate 47.191317 2.411199 26.455170
+scale 1.000000 1.000000 1.000000
+
+jointIndex 26
+
+bind_translate 0.000001 16.121319 0.000030
+bind_rotate -5.764527 -0.000076 2.311724
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:RightArm
+
+# Node.
+
+node Cyber_warrior_for_substance:RightForeArm Cyber_warrior_for_substance:RightArm
+
+translate -0.000130 -0.000031 0.000079
+rotate 24.234442 9.159953 -1.615221
+scale 0.999999 0.999999 0.999999
+
+jointIndex 27
+
+bind_translate 0.000086 24.311094 -0.000106
+bind_rotate -10.763756 22.744880 -26.182929
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:RightForeArm
+
+# Node.
+
+node Cyber_warrior_for_substance:RightHand Cyber_warrior_for_substance:RightForeArm
+
+translate 0.000115 -0.000063 -0.000098
+rotate 13.860617 -1.115483 -10.335836
+scale 1.000000 1.000000 1.000000
+
+jointIndex 28
+
+bind_translate -0.000159 20.327438 0.000006
+bind_rotate -7.932519 -38.342886 9.564187
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:RightHand
+
+# Node.
+
+node Cyber_warrior_for_substance:RightHandThumb1 Cyber_warrior_for_substance:RightHand
+
+translate -0.000172 0.000025 0.000011
+rotate 20.085486 8.966508 10.306909
+scale 1.000000 1.000000 1.000000
+
+jointIndex 29
+
+bind_translate 3.750172 5.046298 0.195264
+bind_rotate 1.796569 -0.000112 -44.669745
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:RightHandThumb1
+
+# Node.
+
+node Cyber_warrior_for_substance:RightHandThumb2 Cyber_warrior_for_substance:RightHandThumb1
+
+translate -0.000033 0.000056 0.000054
+rotate -2.682360 2.984375 46.843288
+scale 1.000000 1.000000 1.000000
+
+jointIndex 30
+
+bind_translate -0.704596 4.982584 -0.000048
+bind_rotate 4.706240 -0.000014 -0.000026
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:RightHandThumb2
+
+# Node.
+
+node Cyber_warrior_for_substance:RightHandThumb3 Cyber_warrior_for_substance:RightHandThumb2
+
+translate 0.000282 -0.000069 -0.000075
+rotate -4.290864 -1.805039 -26.904561
+scale 1.000000 1.000000 1.000000
+
+jointIndex 31
+
+bind_translate 1.416646 4.465804 0.000094
+bind_rotate 4.748682 0.000031 0.000020
+bind_scale 1.000000 1.000000 1.000000
+
+# Node.
+
+node Cyber_warrior_for_substance:RightHandIndex1 Cyber_warrior_for_substance:RightHand
+
+translate -0.000055 0.000115 0.000038
+rotate -2.817301 1.295591 7.924277
+scale 1.000001 1.000000 1.000000
+
+jointIndex 32
+
+bind_translate 5.868496 17.899632 0.059045
+bind_rotate 7.090738 -0.000040 -14.582456
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:RightHandIndex1
+
+# Node.
+
+node Cyber_warrior_for_substance:RightHandIndex2 Cyber_warrior_for_substance:RightHandIndex1
+
+translate -0.000082 0.000170 -0.000097
+rotate 27.279782 -1.165778 1.285787
+scale 1.000000 1.000000 1.000000
+
+jointIndex 33
+
+bind_translate 0.001059 3.740425 0.000122
+bind_rotate -10.611424 0.000015 -0.000044
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:RightHandIndex2
+
+# Node.
+
+node Cyber_warrior_for_substance:RightHandIndex3 Cyber_warrior_for_substance:RightHandIndex2
+
+translate 0.000084 -0.000166 0.000111
+rotate -9.421852 -0.004857 -0.019318
+scale 1.000000 1.000000 1.000000
+
+jointIndex 34
+
+bind_translate -0.000127 3.208025 -0.000078
+bind_rotate 9.421939 -0.000007 0.000051
+bind_scale 1.000000 1.000000 1.000000
+
+# Node.
+
+node Cyber_warrior_for_substance:RightHandMiddle1 Cyber_warrior_for_substance:RightHand
+
+translate 0.000039 0.000007 0.000116
+rotate 12.200554 -0.634498 -0.590940
+scale 1.000000 1.000000 1.000000
+
+jointIndex 35
+
+bind_translate 1.591195 18.651367 -0.091701
+bind_rotate -1.984610 0.000008 -0.563157
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:RightHandMiddle1
+
+# Node.
+
+node Cyber_warrior_for_substance:RightHandMiddle2 Cyber_warrior_for_substance:RightHandMiddle1
+
+translate -0.000091 0.000076 -0.000043
+rotate 32.307157 -2.797621 -1.132200
+scale 1.000000 1.000000 1.000000
+
+jointIndex 36
+
+bind_translate -0.002847 4.464453 0.000055
+bind_rotate 1.483500 0.000002 0.000034
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:RightHandMiddle2
+
+# Node.
+
+node Cyber_warrior_for_substance:RightHandMiddle3 Cyber_warrior_for_substance:RightHandMiddle2
+
+translate 0.000005 0.000002 0.000048
+rotate -21.527354 -0.764784 -4.225669
+scale 1.000000 1.000000 1.000000
+
+jointIndex 37
+
+bind_translate -0.002079 4.094223 -0.000022
+bind_rotate 21.807896 -0.000020 0.000006
+bind_scale 1.000000 1.000000 1.000000
+
+# Node.
+
+node Cyber_warrior_for_substance:RightHandRing1 Cyber_warrior_for_substance:RightHand
+
+translate -0.000097 0.000043 0.000128
+rotate 3.167467 -4.528367 -16.216175
+scale 1.000000 1.000000 1.000000
+
+jointIndex 38
+
+bind_translate -2.165984 17.410589 -0.704861
+bind_rotate 17.836744 0.000044 15.585334
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:RightHandRing1
+
+# Node.
+
+node Cyber_warrior_for_substance:RightHandRing2 Cyber_warrior_for_substance:RightHandRing1
+
+translate 0.000037 0.000146 0.000048
+rotate 59.116592 -0.713651 0.844125
+scale 1.000000 1.000000 1.000000
+
+jointIndex 39
+
+bind_translate 0.004016 4.030105 0.000013
+bind_rotate -20.581189 -0.000003 -0.000023
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:RightHandRing2
+
+# Node.
+
+node Cyber_warrior_for_substance:RightHandRing3 Cyber_warrior_for_substance:RightHandRing2
+
+translate -0.000055 -0.000139 -0.000109
+rotate -0.000063 0.000001 -0.000012
+scale 1.000000 0.999999 1.000000
+
+jointIndex 40
+
+bind_translate -0.003260 3.774859 0.000136
+bind_rotate 2.545593 -0.000001 0.000032
+bind_scale 1.000000 1.000000 1.000000
+
+# Node.
+
+node Cyber_warrior_for_substance:RightHandPinky1 Cyber_warrior_for_substance:RightHand
+
+translate 0.000035 0.000122 0.000070
+rotate 31.131118 -1.324490 -32.367583
+scale 1.000001 1.000001 1.000001
+
+jointIndex 41
+
+bind_translate -5.293588 15.766228 0.521036
+bind_rotate -8.316055 0.000097 30.601478
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:RightHandPinky1
+
+# Node.
+
+node Cyber_warrior_for_substance:RightHandPinky2 Cyber_warrior_for_substance:RightHandPinky1
+
+translate -0.000044 0.000010 0.000046
+rotate 23.916063 -1.422866 -4.283870
+scale 1.000000 1.000000 1.000000
+
+jointIndex 42
+
+bind_translate -0.009142 3.221794 -0.000056
+bind_rotate 18.248483 0.000005 -0.000028
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:RightHandPinky2
+
+# Node.
+
+node Cyber_warrior_for_substance:RightHandPinky3 Cyber_warrior_for_substance:RightHandPinky2
+
+translate 0.000011 -0.000023 -0.000046
+rotate 6.950868 -0.019840 0.041514
+scale 1.000000 1.000000 1.000000
+
+jointIndex 43
+
+bind_translate 0.004601 2.663659 0.000073
+bind_rotate -6.950712 -0.000024 0.000028
+bind_scale 1.000000 1.000000 1.000000
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftUpLeg Cyber_warrior_for_substance:Hips
+
+translate -0.000009 -0.000030 0.000001
+rotate 28.652920 -11.616759 4.431919
+scale 1.000000 1.000000 1.000000
+
+jointIndex 44
+
+bind_translate 11.916686 -5.779724 0.885269
+bind_rotate 0.559030 -0.021534 -177.738420
+bind_scale 0.999880 1.000000 0.999990
+
+animation animation_Cyber_warrior_for_substance:LeftUpLeg
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftLeg Cyber_warrior_for_substance:LeftUpLeg
+
+translate -0.000018 0.000023 0.000030
+rotate -33.880744 15.007975 -4.582076
+scale 1.000000 1.000000 1.000000
+
+jointIndex 45
+
+bind_translate 0.000019 44.760361 -0.000023
+bind_rotate -13.082662 -0.000449 3.918570
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:LeftLeg
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftFoot Cyber_warrior_for_substance:LeftLeg
+
+translate 0.000022 -0.000022 0.000012
+rotate 1.303725 -2.955452 -3.379636
+scale 1.000000 1.000000 1.000000
+
+jointIndex 46
+
+bind_translate -0.000025 43.380489 0.000009
+bind_rotate 52.840471 -1.273202 0.000120
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:LeftFoot
+
+# Node.
+
+node Cyber_warrior_for_substance:LeftToeBase Cyber_warrior_for_substance:LeftFoot
+
+translate -0.000029 -0.000017 0.000007
+rotate 2.329322 0.512556 -3.276583
+scale 1.000001 0.999999 0.999999
+
+jointIndex 47
+
+bind_translate 0.000027 25.131268 0.000010
+bind_rotate 48.090887 -13.245716 0.001271
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:LeftToeBase
+
+# Node.
+
+node Cyber_warrior_for_substance:RightUpLeg Cyber_warrior_for_substance:Hips
+
+translate -0.000006 0.000045 0.000001
+rotate 2.701228 14.835980 -12.594421
+scale 0.999999 0.999999 1.000000
+
+jointIndex 48
+
+bind_translate -11.916698 -5.779648 -0.403993
+bind_rotate 2.429754 0.094523 177.742477
+bind_scale 0.999986 1.000000 0.999983
+
+animation animation_Cyber_warrior_for_substance:RightUpLeg
+
+# Node.
+
+node Cyber_warrior_for_substance:RightLeg Cyber_warrior_for_substance:RightUpLeg
+
+translate 0.000025 -0.000046 -0.000010
+rotate -32.185774 5.861906 -3.967101
+scale 1.000000 1.000001 1.000000
+
+jointIndex 49
+
+bind_translate -0.000021 44.799210 -0.000002
+bind_rotate -15.000564 0.000367 -3.969484
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:RightLeg
+
+# Node.
+
+node Cyber_warrior_for_substance:RightFoot Cyber_warrior_for_substance:RightLeg
+
+translate -0.000025 -0.000005 0.000000
+rotate 18.709439 9.705540 10.866456
+scale 1.000000 1.000000 1.000000
+
+jointIndex 50
+
+bind_translate 0.000027 43.399239 0.000003
+bind_rotate 53.601334 1.044481 0.000005
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:RightFoot
+
+# Node.
+
+node Cyber_warrior_for_substance:RightToeBase Cyber_warrior_for_substance:RightFoot
+
+translate 0.000000 0.000000 0.000000
+rotate 3.609069 -1.932790 -0.061187
+scale 1.000000 1.000000 1.000000
+
+jointIndex 51
+
+bind_translate -0.000001 25.377499 0.000000
+bind_rotate 47.460929 13.538267 -0.000164
+bind_scale 1.000000 1.000000 1.000000
+
+animation animation_Cyber_warrior_for_substance:RightToeBase
+
+# Node.
+
+node CyberWarriorMeshNode CyberWarriorNode
+
+layers 1
+
+translate -999.999878 0.000000 -0.000000
+rotate 0.000000 0.000000 0.000000
+scale 33.333328 33.333336 33.333336
+
+mesh CyberWarriorMesh
+

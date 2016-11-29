@@ -1,0 +1,92 @@
+#
+# VulKan ToolS materials.
+#
+
+texture_library material_probes_textures.vkts
+
+#
+# Material.
+#
+
+shading BSDF false
+
+name PlasticMaterial
+
+fragment_shader PlasticMaterial.frag.spv
+
+attributes 13
+
+#
+# Material.
+#
+
+shading BSDF false
+
+name CyberWarriorMaterial
+
+fragment_shader CyberWarriorMaterial.frag.spv
+
+add_texture CyberWarriorMaterial_Image_Texture_002_texture
+
+add_texture CyberWarriorMaterial_Image_Texture_001_texture
+
+add_texture CyberWarriorMaterial_Image_Texture_texture
+
+attributes 1f
+
+#
+# Material.
+#
+
+shading BSDF false
+
+name NeutralMaterial
+
+fragment_shader NeutralMaterial.frag.spv
+
+attributes 3
+
+#
+# Material.
+#
+
+shading BSDF false
+
+name WoodMaterial
+
+fragment_shader WoodMaterial.frag.spv
+
+add_texture WoodMaterial_Image_Texture_001_texture
+
+add_texture WoodMaterial_Image_Texture_texture
+
+attributes 1f
+
+#
+# Material.
+#
+
+shading BSDF false
+
+name MetalMaterial
+
+fragment_shader MetalMaterial.frag.spv
+
+add_texture MetalMaterial_Image_Texture_001_texture
+
+add_texture MetalMaterial_Image_Texture_texture
+
+attributes 1f
+
+#
+# Material.
+#
+
+shading BSDF false
+
+name MaterialFloor
+
+fragment_shader MaterialFloor.frag.spv
+
+attributes 3
+

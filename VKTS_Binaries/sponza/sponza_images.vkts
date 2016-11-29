@@ -1,0 +1,463 @@
+#
+# VulKan ToolS images.
+#
+
+#
+# Image.
+#
+
+name sponza_floor_a_diff_image
+
+mipmap true
+image_data sponza_floor_a_diff.tga
+
+#
+# Image.
+#
+
+name spnza_bricks_a_diff_image
+
+mipmap true
+image_data spnza_bricks_a_diff.tga
+
+#
+# Image.
+#
+
+name sponza_roof_diff_image
+
+mipmap true
+image_data sponza_roof_diff.tga
+
+#
+# Image.
+#
+
+name background_image
+
+mipmap true
+image_data background.tga
+
+#
+# Image.
+#
+
+name sponza_fabric_blue_diff_image
+
+mipmap true
+image_data sponza_fabric_blue_diff.tga
+
+#
+# Image.
+#
+
+name sponza_column_c_spec_image
+
+mipmap true
+image_data sponza_column_c_spec.tga
+
+#
+# Image.
+#
+
+name vase_round_image
+
+mipmap true
+image_data vase_round.tga
+
+#
+# Image.
+#
+
+name chain_texture_mask_image
+
+mipmap true
+image_data chain_texture_mask.tga
+
+#
+# Image.
+#
+
+name sponza_thorn_ddn_image
+
+mipmap true
+image_data sponza_thorn_ddn.tga
+
+#
+# Image.
+#
+
+name background_ddn_image
+
+mipmap true
+image_data background_ddn.tga
+
+#
+# Image.
+#
+
+name sponza_column_a_spec_image
+
+mipmap true
+image_data sponza_column_a_spec.tga
+
+#
+# Image.
+#
+
+name sponza_ceiling_a_diff_image
+
+mipmap true
+image_data sponza_ceiling_a_diff.tga
+
+#
+# Image.
+#
+
+name sponza_ceiling_a_spec_image
+
+mipmap true
+image_data sponza_ceiling_a_spec.tga
+
+#
+# Image.
+#
+
+name vase_plant_mask_image
+
+mipmap true
+image_data vase_plant_mask.tga
+
+#
+# Image.
+#
+
+name sponza_flagpole_spec_image
+
+mipmap true
+image_data sponza_flagpole_spec.tga
+
+#
+# Image.
+#
+
+name vase_ddn_image
+
+mipmap true
+image_data vase_ddn.tga
+
+#
+# Image.
+#
+
+name chain_texture_ddn_image
+
+mipmap true
+image_data chain_texture_ddn.tga
+
+#
+# Image.
+#
+
+name sponza_curtain_blue_diff_image
+
+mipmap true
+image_data sponza_curtain_blue_diff.tga
+
+#
+# Image.
+#
+
+name sponza_curtain_diff_image
+
+mipmap true
+image_data sponza_curtain_diff.tga
+
+#
+# Image.
+#
+
+name sponza_arch_diff_image
+
+mipmap true
+image_data sponza_arch_diff.tga
+
+#
+# Image.
+#
+
+name sponza_column_c_diff_image
+
+mipmap true
+image_data sponza_column_c_diff.tga
+
+#
+# Image.
+#
+
+name vase_plant_spec_image
+
+mipmap true
+image_data vase_plant_spec.tga
+
+#
+# Image.
+#
+
+name sponza_details_diff_image
+
+mipmap true
+image_data sponza_details_diff.tga
+
+#
+# Image.
+#
+
+name vase_round_spec_image
+
+mipmap true
+image_data vase_round_spec.tga
+
+#
+# Image.
+#
+
+name sponza_fabric_green_diff_image
+
+mipmap true
+image_data sponza_fabric_green_diff.tga
+
+#
+# Image.
+#
+
+name chain_texture_image
+
+mipmap true
+image_data chain_texture.tga
+
+#
+# Image.
+#
+
+name sponza_floor_a_spec_image
+
+mipmap true
+image_data sponza_floor_a_spec.tga
+
+#
+# Image.
+#
+
+name spnza_bricks_a_spec_image
+
+mipmap true
+image_data spnza_bricks_a_spec.tga
+
+#
+# Image.
+#
+
+name sponza_thorn_mask_image
+
+mipmap true
+image_data sponza_thorn_mask.tga
+
+#
+# Image.
+#
+
+name vase_dif_image
+
+mipmap true
+image_data vase_dif.tga
+
+#
+# Image.
+#
+
+name sponza_column_b_spec_image
+
+mipmap true
+image_data sponza_column_b_spec.tga
+
+#
+# Image.
+#
+
+name lion_ddn_image
+
+mipmap true
+image_data lion_ddn.tga
+
+#
+# Image.
+#
+
+name sponza_column_a_ddn_image
+
+mipmap true
+image_data sponza_column_a_ddn.tga
+
+#
+# Image.
+#
+
+name sponza_fabric_diff_image
+
+mipmap true
+image_data sponza_fabric_diff.tga
+
+#
+# Image.
+#
+
+name sponza_column_a_diff_image
+
+mipmap true
+image_data sponza_column_a_diff.tga
+
+#
+# Image.
+#
+
+name sponza_thorn_diff_image
+
+mipmap true
+image_data sponza_thorn_diff.tga
+
+#
+# Image.
+#
+
+name vase_round_ddn_image
+
+mipmap true
+image_data vase_round_ddn.tga
+
+#
+# Image.
+#
+
+name sponza_thorn_spec_image
+
+mipmap true
+image_data sponza_thorn_spec.tga
+
+#
+# Image.
+#
+
+name sponza_details_spec_image
+
+mipmap true
+image_data sponza_details_spec.tga
+
+#
+# Image.
+#
+
+name sponza_curtain_green_diff_image
+
+mipmap true
+image_data sponza_curtain_green_diff.tga
+
+#
+# Image.
+#
+
+name sponza_arch_ddn_image
+
+mipmap true
+image_data sponza_arch_ddn.tga
+
+#
+# Image.
+#
+
+name vase_hanging_image
+
+mipmap true
+image_data vase_hanging.tga
+
+#
+# Image.
+#
+
+name vase_plant_image
+
+mipmap true
+image_data vase_plant.tga
+
+#
+# Image.
+#
+
+name sponza_arch_spec_image
+
+mipmap true
+image_data sponza_arch_spec.tga
+
+#
+# Image.
+#
+
+name sponza_column_c_ddn_image
+
+mipmap true
+image_data sponza_column_c_ddn.tga
+
+#
+# Image.
+#
+
+name sponza_column_b_ddn_image
+
+mipmap true
+image_data sponza_column_b_ddn.tga
+
+#
+# Image.
+#
+
+name sponza_column_b_diff_image
+
+mipmap true
+image_data sponza_column_b_diff.tga
+
+#
+# Image.
+#
+
+name sponza_flagpole_diff_image
+
+mipmap true
+image_data sponza_flagpole_diff.tga
+
+#
+# Image.
+#
+
+name lion_image
+
+mipmap true
+image_data lion.tga
+
+#
+# Image.
+#
+
+name spnza_bricks_a_ddn_image
+
+mipmap true
+image_data spnza_bricks_a_ddn.tga
+
+#
+# Image.
+#
+
+name sponza_fabric_spec_image
+
+mipmap true
+image_data sponza_fabric_spec.tga
+

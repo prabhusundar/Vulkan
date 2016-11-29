@@ -1,0 +1,6908 @@
+#
+# VulKan ToolS objects.
+#
+
+camera_library sponza_cameras.vkts
+
+light_library sponza_lights.vkts
+
+particle_system_library sponza_particles.vkts
+
+mesh_library sponza_meshes.vkts
+
+animation_library sponza_animations.vkts
+
+#
+# Object.
+#
+
+name sponza_118
+
+# Node.
+
+node sponza_118 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_118
+
+#
+# Object.
+#
+
+name sponza_07
+
+# Node.
+
+node sponza_07 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_07
+
+#
+# Object.
+#
+
+name sponza_382
+
+# Node.
+
+node sponza_382 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_382
+
+#
+# Object.
+#
+
+name sponza_257
+
+# Node.
+
+node sponza_257 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_257
+
+#
+# Object.
+#
+
+name sponza_121
+
+# Node.
+
+node sponza_121 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_121
+
+#
+# Object.
+#
+
+name sponza_72
+
+# Node.
+
+node sponza_72 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_72
+
+#
+# Object.
+#
+
+name sponza_362
+
+# Node.
+
+node sponza_362 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_362
+
+#
+# Object.
+#
+
+name sponza_307
+
+# Node.
+
+node sponza_307 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_307
+
+#
+# Object.
+#
+
+name sponza_18
+
+# Node.
+
+node sponza_18 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_18
+
+#
+# Object.
+#
+
+name sponza_333
+
+# Node.
+
+node sponza_333 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_333
+
+#
+# Object.
+#
+
+name sponza_50
+
+# Node.
+
+node sponza_50 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_50
+
+#
+# Object.
+#
+
+name sponza_05
+
+# Node.
+
+node sponza_05 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_05
+
+#
+# Object.
+#
+
+name sponza_270
+
+# Node.
+
+node sponza_270 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_270
+
+#
+# Object.
+#
+
+name sponza_176
+
+# Node.
+
+node sponza_176 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_176
+
+#
+# Object.
+#
+
+name sponza_77
+
+# Node.
+
+node sponza_77 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_77
+
+#
+# Object.
+#
+
+name sponza_150
+
+# Node.
+
+node sponza_150 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_150
+
+#
+# Object.
+#
+
+name sponza_183
+
+# Node.
+
+node sponza_183 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_183
+
+#
+# Object.
+#
+
+name sponza_49
+
+# Node.
+
+node sponza_49 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_49
+
+#
+# Object.
+#
+
+name sponza_26
+
+# Node.
+
+node sponza_26 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_26
+
+#
+# Object.
+#
+
+name sponza_03
+
+# Node.
+
+node sponza_03 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_03
+
+#
+# Object.
+#
+
+name sponza_15
+
+# Node.
+
+node sponza_15 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_15
+
+#
+# Object.
+#
+
+name sponza_117
+
+# Node.
+
+node sponza_117 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_117
+
+#
+# Object.
+#
+
+name sponza_303
+
+# Node.
+
+node sponza_303 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_303
+
+#
+# Object.
+#
+
+name sponza_226
+
+# Node.
+
+node sponza_226 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_226
+
+#
+# Object.
+#
+
+name sponza_372
+
+# Node.
+
+node sponza_372 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_372
+
+#
+# Object.
+#
+
+name sponza_202
+
+# Node.
+
+node sponza_202 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_202
+
+#
+# Object.
+#
+
+name sponza_78
+
+# Node.
+
+node sponza_78 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_78
+
+#
+# Object.
+#
+
+name sponza_126
+
+# Node.
+
+node sponza_126 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_126
+
+#
+# Object.
+#
+
+name sponza_64
+
+# Node.
+
+node sponza_64 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_64
+
+#
+# Object.
+#
+
+name sponza_218
+
+# Node.
+
+node sponza_218 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_218
+
+#
+# Object.
+#
+
+name sponza_130
+
+# Node.
+
+node sponza_130 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_130
+
+#
+# Object.
+#
+
+name sponza_208
+
+# Node.
+
+node sponza_208 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_208
+
+#
+# Object.
+#
+
+name sponza_152
+
+# Node.
+
+node sponza_152 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_152
+
+#
+# Object.
+#
+
+name sponza_279
+
+# Node.
+
+node sponza_279 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_279
+
+#
+# Object.
+#
+
+name sponza_273
+
+# Node.
+
+node sponza_273 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_273
+
+#
+# Object.
+#
+
+name sponza_01
+
+# Node.
+
+node sponza_01 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_01
+
+#
+# Object.
+#
+
+name sponza_25
+
+# Node.
+
+node sponza_25 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_25
+
+#
+# Object.
+#
+
+name sponza_59
+
+# Node.
+
+node sponza_59 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_59
+
+#
+# Object.
+#
+
+name sponza_274
+
+# Node.
+
+node sponza_274 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_274
+
+#
+# Object.
+#
+
+name sponza_271
+
+# Node.
+
+node sponza_271 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_271
+
+#
+# Object.
+#
+
+name sponza_348
+
+# Node.
+
+node sponza_348 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_348
+
+#
+# Object.
+#
+
+name sponza_364
+
+# Node.
+
+node sponza_364 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_364
+
+#
+# Object.
+#
+
+name sponza_243
+
+# Node.
+
+node sponza_243 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_243
+
+#
+# Object.
+#
+
+name sponza_352
+
+# Node.
+
+node sponza_352 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_352
+
+#
+# Object.
+#
+
+name sponza_346
+
+# Node.
+
+node sponza_346 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_346
+
+#
+# Object.
+#
+
+name sponza_19
+
+# Node.
+
+node sponza_19 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_19
+
+#
+# Object.
+#
+
+name sponza_200
+
+# Node.
+
+node sponza_200 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_200
+
+#
+# Object.
+#
+
+name sponza_289
+
+# Node.
+
+node sponza_289 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_289
+
+#
+# Object.
+#
+
+name sponza_377
+
+# Node.
+
+node sponza_377 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_377
+
+#
+# Object.
+#
+
+name sponza_258
+
+# Node.
+
+node sponza_258 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_258
+
+#
+# Object.
+#
+
+name sponza_136
+
+# Node.
+
+node sponza_136 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_136
+
+#
+# Object.
+#
+
+name sponza_162
+
+# Node.
+
+node sponza_162 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_162
+
+#
+# Object.
+#
+
+name sponza_323
+
+# Node.
+
+node sponza_323 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_323
+
+#
+# Object.
+#
+
+name sponza_233
+
+# Node.
+
+node sponza_233 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_233
+
+#
+# Object.
+#
+
+name sponza_291
+
+# Node.
+
+node sponza_291 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_291
+
+#
+# Object.
+#
+
+name sponza_113
+
+# Node.
+
+node sponza_113 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_113
+
+#
+# Object.
+#
+
+name sponza_124
+
+# Node.
+
+node sponza_124 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_124
+
+#
+# Object.
+#
+
+name sponza_68
+
+# Node.
+
+node sponza_68 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_68
+
+#
+# Object.
+#
+
+name sponza_194
+
+# Node.
+
+node sponza_194 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_194
+
+#
+# Object.
+#
+
+name sponza_12
+
+# Node.
+
+node sponza_12 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_12
+
+#
+# Object.
+#
+
+name sponza_31
+
+# Node.
+
+node sponza_31 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_31
+
+#
+# Object.
+#
+
+name sponza_166
+
+# Node.
+
+node sponza_166 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_166
+
+#
+# Object.
+#
+
+name sponza_355
+
+# Node.
+
+node sponza_355 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_355
+
+#
+# Object.
+#
+
+name sponza_223
+
+# Node.
+
+node sponza_223 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_223
+
+#
+# Object.
+#
+
+name sponza_245
+
+# Node.
+
+node sponza_245 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_245
+
+#
+# Object.
+#
+
+name sponza_227
+
+# Node.
+
+node sponza_227 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_227
+
+#
+# Object.
+#
+
+name sponza_75
+
+# Node.
+
+node sponza_75 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_75
+
+#
+# Object.
+#
+
+name sponza_309
+
+# Node.
+
+node sponza_309 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_309
+
+#
+# Object.
+#
+
+name sponza_327
+
+# Node.
+
+node sponza_327 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_327
+
+#
+# Object.
+#
+
+name sponza_178
+
+# Node.
+
+node sponza_178 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_178
+
+#
+# Object.
+#
+
+name sponza_157
+
+# Node.
+
+node sponza_157 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_157
+
+#
+# Object.
+#
+
+name sponza_187
+
+# Node.
+
+node sponza_187 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_187
+
+#
+# Object.
+#
+
+name sponza_315
+
+# Node.
+
+node sponza_315 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_315
+
+#
+# Object.
+#
+
+name sponza_171
+
+# Node.
+
+node sponza_171 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_171
+
+#
+# Object.
+#
+
+name sponza_153
+
+# Node.
+
+node sponza_153 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_153
+
+#
+# Object.
+#
+
+name sponza_242
+
+# Node.
+
+node sponza_242 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_242
+
+#
+# Object.
+#
+
+name sponza_237
+
+# Node.
+
+node sponza_237 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_237
+
+#
+# Object.
+#
+
+name sponza_198
+
+# Node.
+
+node sponza_198 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_198
+
+#
+# Object.
+#
+
+name sponza_351
+
+# Node.
+
+node sponza_351 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_351
+
+#
+# Object.
+#
+
+name sponza_37
+
+# Node.
+
+node sponza_37 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_37
+
+#
+# Object.
+#
+
+name sponza_306
+
+# Node.
+
+node sponza_306 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_306
+
+#
+# Object.
+#
+
+name sponza_324
+
+# Node.
+
+node sponza_324 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_324
+
+#
+# Object.
+#
+
+name sponza_101
+
+# Node.
+
+node sponza_101 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_101
+
+#
+# Object.
+#
+
+name sponza_264
+
+# Node.
+
+node sponza_264 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_264
+
+#
+# Object.
+#
+
+name sponza_325
+
+# Node.
+
+node sponza_325 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_325
+
+#
+# Object.
+#
+
+name sponza_147
+
+# Node.
+
+node sponza_147 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_147
+
+#
+# Object.
+#
+
+name sponza_251
+
+# Node.
+
+node sponza_251 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_251
+
+#
+# Object.
+#
+
+name sponza_139
+
+# Node.
+
+node sponza_139 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_139
+
+#
+# Object.
+#
+
+name sponza_170
+
+# Node.
+
+node sponza_170 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_170
+
+#
+# Object.
+#
+
+name sponza_368
+
+# Node.
+
+node sponza_368 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_368
+
+#
+# Object.
+#
+
+name sponza_211
+
+# Node.
+
+node sponza_211 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_211
+
+#
+# Object.
+#
+
+name sponza_62
+
+# Node.
+
+node sponza_62 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_62
+
+#
+# Object.
+#
+
+name sponza_71
+
+# Node.
+
+node sponza_71 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_71
+
+#
+# Object.
+#
+
+name sponza_252
+
+# Node.
+
+node sponza_252 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_252
+
+#
+# Object.
+#
+
+name sponza_304
+
+# Node.
+
+node sponza_304 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_304
+
+#
+# Object.
+#
+
+name sponza_57
+
+# Node.
+
+node sponza_57 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_57
+
+#
+# Object.
+#
+
+name sponza_275
+
+# Node.
+
+node sponza_275 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_275
+
+#
+# Object.
+#
+
+name sponza_123
+
+# Node.
+
+node sponza_123 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_123
+
+#
+# Object.
+#
+
+name sponza_81
+
+# Node.
+
+node sponza_81 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_81
+
+#
+# Object.
+#
+
+name sponza_290
+
+# Node.
+
+node sponza_290 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_290
+
+#
+# Object.
+#
+
+name sponza_142
+
+# Node.
+
+node sponza_142 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_142
+
+#
+# Object.
+#
+
+name sponza_239
+
+# Node.
+
+node sponza_239 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_239
+
+#
+# Object.
+#
+
+name sponza_240
+
+# Node.
+
+node sponza_240 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_240
+
+#
+# Object.
+#
+
+name sponza_238
+
+# Node.
+
+node sponza_238 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_238
+
+#
+# Object.
+#
+
+name sponza_216
+
+# Node.
+
+node sponza_216 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_216
+
+#
+# Object.
+#
+
+name sponza_45
+
+# Node.
+
+node sponza_45 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_45
+
+#
+# Object.
+#
+
+name sponza_330
+
+# Node.
+
+node sponza_330 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_330
+
+#
+# Object.
+#
+
+name sponza_261
+
+# Node.
+
+node sponza_261 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_261
+
+#
+# Object.
+#
+
+name sponza_145
+
+# Node.
+
+node sponza_145 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_145
+
+#
+# Object.
+#
+
+name sponza_326
+
+# Node.
+
+node sponza_326 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_326
+
+#
+# Object.
+#
+
+name sponza_214
+
+# Node.
+
+node sponza_214 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_214
+
+#
+# Object.
+#
+
+name sponza_222
+
+# Node.
+
+node sponza_222 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_222
+
+#
+# Object.
+#
+
+name sponza_229
+
+# Node.
+
+node sponza_229 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_229
+
+#
+# Object.
+#
+
+name sponza_282
+
+# Node.
+
+node sponza_282 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_282
+
+#
+# Object.
+#
+
+name sponza_00
+
+# Node.
+
+node sponza_00 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_00
+
+#
+# Object.
+#
+
+name sponza_38
+
+# Node.
+
+node sponza_38 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_38
+
+#
+# Object.
+#
+
+name sponza_347
+
+# Node.
+
+node sponza_347 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_347
+
+#
+# Object.
+#
+
+name sponza_370
+
+# Node.
+
+node sponza_370 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_370
+
+#
+# Object.
+#
+
+name sponza_46
+
+# Node.
+
+node sponza_46 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_46
+
+#
+# Object.
+#
+
+name sponza_110
+
+# Node.
+
+node sponza_110 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_110
+
+#
+# Object.
+#
+
+name sponza_56
+
+# Node.
+
+node sponza_56 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_56
+
+#
+# Object.
+#
+
+name sponza_60
+
+# Node.
+
+node sponza_60 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_60
+
+#
+# Object.
+#
+
+name sponza_186
+
+# Node.
+
+node sponza_186 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_186
+
+#
+# Object.
+#
+
+name sponza_114
+
+# Node.
+
+node sponza_114 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_114
+
+#
+# Object.
+#
+
+name sponza_363
+
+# Node.
+
+node sponza_363 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_363
+
+#
+# Object.
+#
+
+name sponza_296
+
+# Node.
+
+node sponza_296 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_296
+
+#
+# Object.
+#
+
+name sponza_331
+
+# Node.
+
+node sponza_331 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_331
+
+#
+# Object.
+#
+
+name sponza_167
+
+# Node.
+
+node sponza_167 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_167
+
+#
+# Object.
+#
+
+name sponza_85
+
+# Node.
+
+node sponza_85 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_85
+
+#
+# Object.
+#
+
+name sponza_247
+
+# Node.
+
+node sponza_247 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_247
+
+#
+# Object.
+#
+
+name sponza_09
+
+# Node.
+
+node sponza_09 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_09
+
+#
+# Object.
+#
+
+name sponza_115
+
+# Node.
+
+node sponza_115 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_115
+
+#
+# Object.
+#
+
+name sponza_146
+
+# Node.
+
+node sponza_146 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_146
+
+#
+# Object.
+#
+
+name sponza_360
+
+# Node.
+
+node sponza_360 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_360
+
+#
+# Object.
+#
+
+name sponza_217
+
+# Node.
+
+node sponza_217 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_217
+
+#
+# Object.
+#
+
+name sponza_36
+
+# Node.
+
+node sponza_36 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_36
+
+#
+# Object.
+#
+
+name sponza_320
+
+# Node.
+
+node sponza_320 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_320
+
+#
+# Object.
+#
+
+name sponza_210
+
+# Node.
+
+node sponza_210 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_210
+
+#
+# Object.
+#
+
+name sponza_39
+
+# Node.
+
+node sponza_39 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_39
+
+#
+# Object.
+#
+
+name sponza_337
+
+# Node.
+
+node sponza_337 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_337
+
+#
+# Object.
+#
+
+name sponza_232
+
+# Node.
+
+node sponza_232 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_232
+
+#
+# Object.
+#
+
+name sponza_22
+
+# Node.
+
+node sponza_22 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_22
+
+#
+# Object.
+#
+
+name sponza_381
+
+# Node.
+
+node sponza_381 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_381
+
+#
+# Object.
+#
+
+name sponza_73
+
+# Node.
+
+node sponza_73 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_73
+
+#
+# Object.
+#
+
+name sponza_95
+
+# Node.
+
+node sponza_95 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_95
+
+#
+# Object.
+#
+
+name sponza_21
+
+# Node.
+
+node sponza_21 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_21
+
+#
+# Object.
+#
+
+name sponza_287
+
+# Node.
+
+node sponza_287 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_287
+
+#
+# Object.
+#
+
+name sponza_69
+
+# Node.
+
+node sponza_69 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_69
+
+#
+# Object.
+#
+
+name sponza_378
+
+# Node.
+
+node sponza_378 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_378
+
+#
+# Object.
+#
+
+name sponza_379
+
+# Node.
+
+node sponza_379 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_379
+
+#
+# Object.
+#
+
+name sponza_80
+
+# Node.
+
+node sponza_80 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_80
+
+#
+# Object.
+#
+
+name sponza_42
+
+# Node.
+
+node sponza_42 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_42
+
+#
+# Object.
+#
+
+name sponza_163
+
+# Node.
+
+node sponza_163 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_163
+
+#
+# Object.
+#
+
+name sponza_204
+
+# Node.
+
+node sponza_204 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_204
+
+#
+# Object.
+#
+
+name sponza_209
+
+# Node.
+
+node sponza_209 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_209
+
+#
+# Object.
+#
+
+name sponza_84
+
+# Node.
+
+node sponza_84 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_84
+
+#
+# Object.
+#
+
+name sponza_356
+
+# Node.
+
+node sponza_356 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_356
+
+#
+# Object.
+#
+
+name sponza_137
+
+# Node.
+
+node sponza_137 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_137
+
+#
+# Object.
+#
+
+name sponza_134
+
+# Node.
+
+node sponza_134 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_134
+
+#
+# Object.
+#
+
+name sponza_96
+
+# Node.
+
+node sponza_96 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_96
+
+#
+# Object.
+#
+
+name sponza_74
+
+# Node.
+
+node sponza_74 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_74
+
+#
+# Object.
+#
+
+name sponza_109
+
+# Node.
+
+node sponza_109 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_109
+
+#
+# Object.
+#
+
+name sponza_184
+
+# Node.
+
+node sponza_184 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_184
+
+#
+# Object.
+#
+
+name sponza_329
+
+# Node.
+
+node sponza_329 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_329
+
+#
+# Object.
+#
+
+name sponza_342
+
+# Node.
+
+node sponza_342 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_342
+
+#
+# Object.
+#
+
+name sponza_248
+
+# Node.
+
+node sponza_248 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_248
+
+#
+# Object.
+#
+
+name sponza_160
+
+# Node.
+
+node sponza_160 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_160
+
+#
+# Object.
+#
+
+name sponza_181
+
+# Node.
+
+node sponza_181 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_181
+
+#
+# Object.
+#
+
+name sponza_193
+
+# Node.
+
+node sponza_193 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_193
+
+#
+# Object.
+#
+
+name sponza_297
+
+# Node.
+
+node sponza_297 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_297
+
+#
+# Object.
+#
+
+name sponza_43
+
+# Node.
+
+node sponza_43 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_43
+
+#
+# Object.
+#
+
+name sponza_119
+
+# Node.
+
+node sponza_119 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_119
+
+#
+# Object.
+#
+
+name sponza_358
+
+# Node.
+
+node sponza_358 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_358
+
+#
+# Object.
+#
+
+name sponza_267
+
+# Node.
+
+node sponza_267 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_267
+
+#
+# Object.
+#
+
+name sponza_94
+
+# Node.
+
+node sponza_94 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_94
+
+#
+# Object.
+#
+
+name sponza_317
+
+# Node.
+
+node sponza_317 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_317
+
+#
+# Object.
+#
+
+name sponza_302
+
+# Node.
+
+node sponza_302 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_302
+
+#
+# Object.
+#
+
+name sponza_280
+
+# Node.
+
+node sponza_280 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_280
+
+#
+# Object.
+#
+
+name sponza_63
+
+# Node.
+
+node sponza_63 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_63
+
+#
+# Object.
+#
+
+name sponza_116
+
+# Node.
+
+node sponza_116 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_116
+
+#
+# Object.
+#
+
+name sponza_206
+
+# Node.
+
+node sponza_206 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_206
+
+#
+# Object.
+#
+
+name sponza_225
+
+# Node.
+
+node sponza_225 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_225
+
+#
+# Object.
+#
+
+name sponza_107
+
+# Node.
+
+node sponza_107 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_107
+
+#
+# Object.
+#
+
+name sponza_67
+
+# Node.
+
+node sponza_67 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_67
+
+#
+# Object.
+#
+
+name sponza_11
+
+# Node.
+
+node sponza_11 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_11
+
+#
+# Object.
+#
+
+name sponza_231
+
+# Node.
+
+node sponza_231 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_231
+
+#
+# Object.
+#
+
+name sponza_263
+
+# Node.
+
+node sponza_263 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_263
+
+#
+# Object.
+#
+
+name sponza_215
+
+# Node.
+
+node sponza_215 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_215
+
+#
+# Object.
+#
+
+name sponza_140
+
+# Node.
+
+node sponza_140 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_140
+
+#
+# Object.
+#
+
+name sponza_314
+
+# Node.
+
+node sponza_314 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_314
+
+#
+# Object.
+#
+
+name sponza_366
+
+# Node.
+
+node sponza_366 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_366
+
+#
+# Object.
+#
+
+name sponza_343
+
+# Node.
+
+node sponza_343 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_343
+
+#
+# Object.
+#
+
+name sponza_254
+
+# Node.
+
+node sponza_254 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_254
+
+#
+# Object.
+#
+
+name sponza_286
+
+# Node.
+
+node sponza_286 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_286
+
+#
+# Object.
+#
+
+name sponza_87
+
+# Node.
+
+node sponza_87 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_87
+
+#
+# Object.
+#
+
+name sponza_266
+
+# Node.
+
+node sponza_266 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_266
+
+#
+# Object.
+#
+
+name sponza_332
+
+# Node.
+
+node sponza_332 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_332
+
+#
+# Object.
+#
+
+name sponza_281
+
+# Node.
+
+node sponza_281 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_281
+
+#
+# Object.
+#
+
+name sponza_158
+
+# Node.
+
+node sponza_158 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_158
+
+#
+# Object.
+#
+
+name sponza_173
+
+# Node.
+
+node sponza_173 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_173
+
+#
+# Object.
+#
+
+name sponza_219
+
+# Node.
+
+node sponza_219 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_219
+
+#
+# Object.
+#
+
+name sponza_250
+
+# Node.
+
+node sponza_250 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_250
+
+#
+# Object.
+#
+
+name sponza_268
+
+# Node.
+
+node sponza_268 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_268
+
+#
+# Object.
+#
+
+name sponza_120
+
+# Node.
+
+node sponza_120 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_120
+
+#
+# Object.
+#
+
+name sponza_23
+
+# Node.
+
+node sponza_23 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_23
+
+#
+# Object.
+#
+
+name sponza_135
+
+# Node.
+
+node sponza_135 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_135
+
+#
+# Object.
+#
+
+name sponza_53
+
+# Node.
+
+node sponza_53 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_53
+
+#
+# Object.
+#
+
+name sponza_340
+
+# Node.
+
+node sponza_340 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_340
+
+#
+# Object.
+#
+
+name sponza_321
+
+# Node.
+
+node sponza_321 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_321
+
+#
+# Object.
+#
+
+name sponza_276
+
+# Node.
+
+node sponza_276 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_276
+
+#
+# Object.
+#
+
+name sponza_82
+
+# Node.
+
+node sponza_82 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_82
+
+#
+# Object.
+#
+
+name sponza_14
+
+# Node.
+
+node sponza_14 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_14
+
+#
+# Object.
+#
+
+name sponza_312
+
+# Node.
+
+node sponza_312 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_312
+
+#
+# Object.
+#
+
+name sponza_148
+
+# Node.
+
+node sponza_148 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_148
+
+#
+# Object.
+#
+
+name sponza_236
+
+# Node.
+
+node sponza_236 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_236
+
+#
+# Object.
+#
+
+name sponza_47
+
+# Node.
+
+node sponza_47 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_47
+
+#
+# Object.
+#
+
+name sponza_86
+
+# Node.
+
+node sponza_86 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_86
+
+#
+# Object.
+#
+
+name sponza_52
+
+# Node.
+
+node sponza_52 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_52
+
+#
+# Object.
+#
+
+name sponza_272
+
+# Node.
+
+node sponza_272 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_272
+
+#
+# Object.
+#
+
+name sponza_155
+
+# Node.
+
+node sponza_155 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_155
+
+#
+# Object.
+#
+
+name sponza_298
+
+# Node.
+
+node sponza_298 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_298
+
+#
+# Object.
+#
+
+name sponza_278
+
+# Node.
+
+node sponza_278 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_278
+
+#
+# Object.
+#
+
+name sponza_92
+
+# Node.
+
+node sponza_92 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_92
+
+#
+# Object.
+#
+
+name sponza_156
+
+# Node.
+
+node sponza_156 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_156
+
+#
+# Object.
+#
+
+name sponza_269
+
+# Node.
+
+node sponza_269 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_269
+
+#
+# Object.
+#
+
+name sponza_318
+
+# Node.
+
+node sponza_318 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_318
+
+#
+# Object.
+#
+
+name sponza_66
+
+# Node.
+
+node sponza_66 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_66
+
+#
+# Object.
+#
+
+name sponza_108
+
+# Node.
+
+node sponza_108 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_108
+
+#
+# Object.
+#
+
+name sponza_93
+
+# Node.
+
+node sponza_93 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_93
+
+#
+# Object.
+#
+
+name sponza_220
+
+# Node.
+
+node sponza_220 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_220
+
+#
+# Object.
+#
+
+name sponza_99
+
+# Node.
+
+node sponza_99 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_99
+
+#
+# Object.
+#
+
+name sponza_106
+
+# Node.
+
+node sponza_106 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_106
+
+#
+# Object.
+#
+
+name sponza_30
+
+# Node.
+
+node sponza_30 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_30
+
+#
+# Object.
+#
+
+name sponza_51
+
+# Node.
+
+node sponza_51 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_51
+
+#
+# Object.
+#
+
+name sponza_359
+
+# Node.
+
+node sponza_359 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_359
+
+#
+# Object.
+#
+
+name sponza_221
+
+# Node.
+
+node sponza_221 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_221
+
+#
+# Object.
+#
+
+name sponza_285
+
+# Node.
+
+node sponza_285 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_285
+
+#
+# Object.
+#
+
+name sponza_322
+
+# Node.
+
+node sponza_322 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_322
+
+#
+# Object.
+#
+
+name sponza_165
+
+# Node.
+
+node sponza_165 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_165
+
+#
+# Object.
+#
+
+name sponza_138
+
+# Node.
+
+node sponza_138 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_138
+
+#
+# Object.
+#
+
+name sponza_169
+
+# Node.
+
+node sponza_169 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_169
+
+#
+# Object.
+#
+
+name sponza_24
+
+# Node.
+
+node sponza_24 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_24
+
+#
+# Object.
+#
+
+name sponza_230
+
+# Node.
+
+node sponza_230 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_230
+
+#
+# Object.
+#
+
+name sponza_32
+
+# Node.
+
+node sponza_32 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_32
+
+#
+# Object.
+#
+
+name sponza_154
+
+# Node.
+
+node sponza_154 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_154
+
+#
+# Object.
+#
+
+name sponza_44
+
+# Node.
+
+node sponza_44 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_44
+
+#
+# Object.
+#
+
+name sponza_164
+
+# Node.
+
+node sponza_164 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_164
+
+#
+# Object.
+#
+
+name sponza_334
+
+# Node.
+
+node sponza_334 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_334
+
+#
+# Object.
+#
+
+name sponza_16
+
+# Node.
+
+node sponza_16 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_16
+
+#
+# Object.
+#
+
+name sponza_295
+
+# Node.
+
+node sponza_295 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_295
+
+#
+# Object.
+#
+
+name sponza_301
+
+# Node.
+
+node sponza_301 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_301
+
+#
+# Object.
+#
+
+name sponza_182
+
+# Node.
+
+node sponza_182 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_182
+
+#
+# Object.
+#
+
+name sponza_292
+
+# Node.
+
+node sponza_292 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_292
+
+#
+# Object.
+#
+
+name sponza_213
+
+# Node.
+
+node sponza_213 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_213
+
+#
+# Object.
+#
+
+name sponza_260
+
+# Node.
+
+node sponza_260 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_260
+
+#
+# Object.
+#
+
+name sponza_191
+
+# Node.
+
+node sponza_191 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_191
+
+#
+# Object.
+#
+
+name sponza_199
+
+# Node.
+
+node sponza_199 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_199
+
+#
+# Object.
+#
+
+name sponza_283
+
+# Node.
+
+node sponza_283 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_283
+
+#
+# Object.
+#
+
+name sponza_27
+
+# Node.
+
+node sponza_27 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_27
+
+#
+# Object.
+#
+
+name sponza_228
+
+# Node.
+
+node sponza_228 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_228
+
+#
+# Object.
+#
+
+name sponza_90
+
+# Node.
+
+node sponza_90 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_90
+
+#
+# Object.
+#
+
+name sponza_265
+
+# Node.
+
+node sponza_265 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_265
+
+#
+# Object.
+#
+
+name sponza_54
+
+# Node.
+
+node sponza_54 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_54
+
+#
+# Object.
+#
+
+name sponza_212
+
+# Node.
+
+node sponza_212 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_212
+
+#
+# Object.
+#
+
+name sponza_125
+
+# Node.
+
+node sponza_125 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_125
+
+#
+# Object.
+#
+
+name sponza_192
+
+# Node.
+
+node sponza_192 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_192
+
+#
+# Object.
+#
+
+name sponza_122
+
+# Node.
+
+node sponza_122 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_122
+
+#
+# Object.
+#
+
+name sponza_205
+
+# Node.
+
+node sponza_205 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_205
+
+#
+# Object.
+#
+
+name sponza_256
+
+# Node.
+
+node sponza_256 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_256
+
+#
+# Object.
+#
+
+name sponza_246
+
+# Node.
+
+node sponza_246 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_246
+
+#
+# Object.
+#
+
+name sponza_207
+
+# Node.
+
+node sponza_207 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_207
+
+#
+# Object.
+#
+
+name sponza_288
+
+# Node.
+
+node sponza_288 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_288
+
+#
+# Object.
+#
+
+name sponza_17
+
+# Node.
+
+node sponza_17 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_17
+
+#
+# Object.
+#
+
+name sponza_190
+
+# Node.
+
+node sponza_190 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_190
+
+#
+# Object.
+#
+
+name sponza_353
+
+# Node.
+
+node sponza_353 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_353
+
+#
+# Object.
+#
+
+name sponza_376
+
+# Node.
+
+node sponza_376 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_376
+
+#
+# Object.
+#
+
+name sponza_371
+
+# Node.
+
+node sponza_371 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_371
+
+#
+# Object.
+#
+
+name sponza_40
+
+# Node.
+
+node sponza_40 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_40
+
+#
+# Object.
+#
+
+name sponza_34
+
+# Node.
+
+node sponza_34 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_34
+
+#
+# Object.
+#
+
+name sponza_373
+
+# Node.
+
+node sponza_373 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_373
+
+#
+# Object.
+#
+
+name sponza_06
+
+# Node.
+
+node sponza_06 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_06
+
+#
+# Object.
+#
+
+name sponza_305
+
+# Node.
+
+node sponza_305 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_305
+
+#
+# Object.
+#
+
+name sponza_195
+
+# Node.
+
+node sponza_195 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_195
+
+#
+# Object.
+#
+
+name sponza_179
+
+# Node.
+
+node sponza_179 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_179
+
+#
+# Object.
+#
+
+name sponza_344
+
+# Node.
+
+node sponza_344 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_344
+
+#
+# Object.
+#
+
+name sponza_161
+
+# Node.
+
+node sponza_161 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_161
+
+#
+# Object.
+#
+
+name sponza_79
+
+# Node.
+
+node sponza_79 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_79
+
+#
+# Object.
+#
+
+name sponza_311
+
+# Node.
+
+node sponza_311 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_311
+
+#
+# Object.
+#
+
+name sponza_127
+
+# Node.
+
+node sponza_127 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_127
+
+#
+# Object.
+#
+
+name sponza_76
+
+# Node.
+
+node sponza_76 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_76
+
+#
+# Object.
+#
+
+name sponza_374
+
+# Node.
+
+node sponza_374 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_374
+
+#
+# Object.
+#
+
+name sponza_111
+
+# Node.
+
+node sponza_111 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_111
+
+#
+# Object.
+#
+
+name sponza_112
+
+# Node.
+
+node sponza_112 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_112
+
+#
+# Object.
+#
+
+name sponza_132
+
+# Node.
+
+node sponza_132 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_132
+
+#
+# Object.
+#
+
+name sponza_249
+
+# Node.
+
+node sponza_249 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_249
+
+#
+# Object.
+#
+
+name sponza_08
+
+# Node.
+
+node sponza_08 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_08
+
+#
+# Object.
+#
+
+name sponza_365
+
+# Node.
+
+node sponza_365 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_365
+
+#
+# Object.
+#
+
+name sponza_255
+
+# Node.
+
+node sponza_255 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_255
+
+#
+# Object.
+#
+
+name sponza_203
+
+# Node.
+
+node sponza_203 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_203
+
+#
+# Object.
+#
+
+name sponza_128
+
+# Node.
+
+node sponza_128 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_128
+
+#
+# Object.
+#
+
+name sponza_310
+
+# Node.
+
+node sponza_310 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_310
+
+#
+# Object.
+#
+
+name sponza_48
+
+# Node.
+
+node sponza_48 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_48
+
+#
+# Object.
+#
+
+name sponza_104
+
+# Node.
+
+node sponza_104 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_104
+
+#
+# Object.
+#
+
+name sponza_174
+
+# Node.
+
+node sponza_174 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_174
+
+#
+# Object.
+#
+
+name sponza_102
+
+# Node.
+
+node sponza_102 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_102
+
+#
+# Object.
+#
+
+name sponza_338
+
+# Node.
+
+node sponza_338 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_338
+
+#
+# Object.
+#
+
+name sponza_58
+
+# Node.
+
+node sponza_58 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_58
+
+#
+# Object.
+#
+
+name sponza_336
+
+# Node.
+
+node sponza_336 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_336
+
+#
+# Object.
+#
+
+name sponza_20
+
+# Node.
+
+node sponza_20 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_20
+
+#
+# Object.
+#
+
+name sponza_300
+
+# Node.
+
+node sponza_300 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_300
+
+#
+# Object.
+#
+
+name sponza_100
+
+# Node.
+
+node sponza_100 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_100
+
+#
+# Object.
+#
+
+name sponza_341
+
+# Node.
+
+node sponza_341 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_341
+
+#
+# Object.
+#
+
+name sponza_299
+
+# Node.
+
+node sponza_299 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_299
+
+#
+# Object.
+#
+
+name sponza_97
+
+# Node.
+
+node sponza_97 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_97
+
+#
+# Object.
+#
+
+name sponza_129
+
+# Node.
+
+node sponza_129 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_129
+
+#
+# Object.
+#
+
+name sponza_308
+
+# Node.
+
+node sponza_308 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_308
+
+#
+# Object.
+#
+
+name sponza_319
+
+# Node.
+
+node sponza_319 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_319
+
+#
+# Object.
+#
+
+name sponza_277
+
+# Node.
+
+node sponza_277 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_277
+
+#
+# Object.
+#
+
+name sponza_313
+
+# Node.
+
+node sponza_313 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_313
+
+#
+# Object.
+#
+
+name sponza_133
+
+# Node.
+
+node sponza_133 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_133
+
+#
+# Object.
+#
+
+name sponza_159
+
+# Node.
+
+node sponza_159 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_159
+
+#
+# Object.
+#
+
+name sponza_65
+
+# Node.
+
+node sponza_65 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_65
+
+#
+# Object.
+#
+
+name sponza_144
+
+# Node.
+
+node sponza_144 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_144
+
+#
+# Object.
+#
+
+name sponza_141
+
+# Node.
+
+node sponza_141 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_141
+
+#
+# Object.
+#
+
+name sponza_189
+
+# Node.
+
+node sponza_189 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_189
+
+#
+# Object.
+#
+
+name sponza_105
+
+# Node.
+
+node sponza_105 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_105
+
+#
+# Object.
+#
+
+name sponza_70
+
+# Node.
+
+node sponza_70 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_70
+
+#
+# Object.
+#
+
+name sponza_335
+
+# Node.
+
+node sponza_335 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_335
+
+#
+# Object.
+#
+
+name sponza_149
+
+# Node.
+
+node sponza_149 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_149
+
+#
+# Object.
+#
+
+name sponza_244
+
+# Node.
+
+node sponza_244 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_244
+
+#
+# Object.
+#
+
+name sponza_328
+
+# Node.
+
+node sponza_328 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_328
+
+#
+# Object.
+#
+
+name sponza_345
+
+# Node.
+
+node sponza_345 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_345
+
+#
+# Object.
+#
+
+name sponza_235
+
+# Node.
+
+node sponza_235 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_235
+
+#
+# Object.
+#
+
+name sponza_175
+
+# Node.
+
+node sponza_175 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_175
+
+#
+# Object.
+#
+
+name sponza_253
+
+# Node.
+
+node sponza_253 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_253
+
+#
+# Object.
+#
+
+name sponza_293
+
+# Node.
+
+node sponza_293 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_293
+
+#
+# Object.
+#
+
+name sponza_41
+
+# Node.
+
+node sponza_41 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_41
+
+#
+# Object.
+#
+
+name sponza_177
+
+# Node.
+
+node sponza_177 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_177
+
+#
+# Object.
+#
+
+name sponza_349
+
+# Node.
+
+node sponza_349 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_349
+
+#
+# Object.
+#
+
+name sponza_367
+
+# Node.
+
+node sponza_367 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_367
+
+#
+# Object.
+#
+
+name sponza_259
+
+# Node.
+
+node sponza_259 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_259
+
+#
+# Object.
+#
+
+name sponza_354
+
+# Node.
+
+node sponza_354 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_354
+
+#
+# Object.
+#
+
+name sponza_316
+
+# Node.
+
+node sponza_316 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_316
+
+#
+# Object.
+#
+
+name sponza_172
+
+# Node.
+
+node sponza_172 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_172
+
+#
+# Object.
+#
+
+name sponza_143
+
+# Node.
+
+node sponza_143 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_143
+
+#
+# Object.
+#
+
+name sponza_103
+
+# Node.
+
+node sponza_103 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_103
+
+#
+# Object.
+#
+
+name sponza_131
+
+# Node.
+
+node sponza_131 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_131
+
+#
+# Object.
+#
+
+name sponza_29
+
+# Node.
+
+node sponza_29 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_29
+
+#
+# Object.
+#
+
+name sponza_188
+
+# Node.
+
+node sponza_188 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_188
+
+#
+# Object.
+#
+
+name sponza_35
+
+# Node.
+
+node sponza_35 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_35
+
+#
+# Object.
+#
+
+name sponza_55
+
+# Node.
+
+node sponza_55 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_55
+
+#
+# Object.
+#
+
+name sponza_339
+
+# Node.
+
+node sponza_339 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_339
+
+#
+# Object.
+#
+
+name sponza_91
+
+# Node.
+
+node sponza_91 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_91
+
+#
+# Object.
+#
+
+name sponza_361
+
+# Node.
+
+node sponza_361 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_361
+
+#
+# Object.
+#
+
+name sponza_98
+
+# Node.
+
+node sponza_98 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_98
+
+#
+# Object.
+#
+
+name sponza_168
+
+# Node.
+
+node sponza_168 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_168
+
+#
+# Object.
+#
+
+name sponza_33
+
+# Node.
+
+node sponza_33 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_33
+
+#
+# Object.
+#
+
+name sponza_13
+
+# Node.
+
+node sponza_13 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_13
+
+#
+# Object.
+#
+
+name sponza_83
+
+# Node.
+
+node sponza_83 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_83
+
+#
+# Object.
+#
+
+name sponza_234
+
+# Node.
+
+node sponza_234 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_234
+
+#
+# Object.
+#
+
+name sponza_10
+
+# Node.
+
+node sponza_10 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_10
+
+#
+# Object.
+#
+
+name sponza_262
+
+# Node.
+
+node sponza_262 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_262
+
+#
+# Object.
+#
+
+name sponza_201
+
+# Node.
+
+node sponza_201 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_201
+
+#
+# Object.
+#
+
+name sponza_357
+
+# Node.
+
+node sponza_357 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_357
+
+#
+# Object.
+#
+
+name sponza_185
+
+# Node.
+
+node sponza_185 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_185
+
+#
+# Object.
+#
+
+name sponza_350
+
+# Node.
+
+node sponza_350 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_350
+
+#
+# Object.
+#
+
+name sponza_151
+
+# Node.
+
+node sponza_151 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_151
+
+#
+# Object.
+#
+
+name sponza_88
+
+# Node.
+
+node sponza_88 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_88
+
+#
+# Object.
+#
+
+name sponza_89
+
+# Node.
+
+node sponza_89 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_89
+
+#
+# Object.
+#
+
+name sponza_28
+
+# Node.
+
+node sponza_28 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_28
+
+#
+# Object.
+#
+
+name sponza_241
+
+# Node.
+
+node sponza_241 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_241
+
+#
+# Object.
+#
+
+name sponza_197
+
+# Node.
+
+node sponza_197 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_197
+
+#
+# Object.
+#
+
+name sponza_196
+
+# Node.
+
+node sponza_196 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_196
+
+#
+# Object.
+#
+
+name sponza_375
+
+# Node.
+
+node sponza_375 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_375
+
+#
+# Object.
+#
+
+name sponza_224
+
+# Node.
+
+node sponza_224 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_224
+
+#
+# Object.
+#
+
+name sponza_180
+
+# Node.
+
+node sponza_180 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_180
+
+#
+# Object.
+#
+
+name sponza_61
+
+# Node.
+
+node sponza_61 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_61
+
+#
+# Object.
+#
+
+name sponza_284
+
+# Node.
+
+node sponza_284 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_284
+
+#
+# Object.
+#
+
+name sponza_369
+
+# Node.
+
+node sponza_369 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_369
+
+#
+# Object.
+#
+
+name sponza_380
+
+# Node.
+
+node sponza_380 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_380
+
+#
+# Object.
+#
+
+name sponza_294
+
+# Node.
+
+node sponza_294 -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 90.000009 0.000000 0.000000
+scale 0.100000 0.100000 0.100000
+
+mesh sponza_294
+
+#
+# Object.
+#
+
+name Lamp
+
+# Node.
+
+node Lamp -
+
+layers 1
+
+translate 0.000000 20.000000 2.000000
+rotate 10.000001 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+light Lamp
+
+#
+# Object.
+#
+
+name Camera
+
+# Node.
+
+node Camera -
+
+layers 1
+
+translate 0.000000 1.000000 -0.000000
+rotate 79.999998 54.999999 -0.000001
+scale 1.000000 1.000000 1.000000
+
+camera Camera
+

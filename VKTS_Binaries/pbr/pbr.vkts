@@ -1,0 +1,88 @@
+#
+# VulKan ToolS scene.
+#
+
+scene_name Scene
+
+object_library pbr_objects.vkts
+
+#
+# Object instance.
+#
+
+object Plane
+
+name Plane
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object Point
+
+name Point
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object Sphere_Left
+
+name Sphere_Left
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object Sphere_Right
+
+name Sphere_Right
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object Sphere_Middle
+
+name Sphere_Middle
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object Camera
+
+name Camera
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Environment texture.
+#
+
+environment Environment_Texture_texture
+
+texture Environment_Texture_texture
+

@@ -1,0 +1,102 @@
+#
+# VulKan ToolS objects.
+#
+
+camera_library basic_scene_cameras.vkts
+
+light_library basic_scene_lights.vkts
+
+particle_system_library basic_scene_particles.vkts
+
+mesh_library basic_scene_meshes.vkts
+
+animation_library basic_scene_animations.vkts
+
+#
+# Object.
+#
+
+name Empty
+
+# Node.
+
+node Empty -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 0.000000 10.000001 0.000000
+scale 1.000000 1.000000 1.000000
+
+# Node.
+
+node Cone Empty
+
+layers 1
+
+translate 0.000000 2.000000 -0.000000
+rotate 0.000000 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh Cone
+
+# Node.
+
+node Cube Empty
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 0.000000 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh Cube
+
+# Node.
+
+node Sphere Empty
+
+layers 1
+
+translate 2.000000 0.000000 -0.000000
+rotate 0.000000 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh Sphere
+
+#
+# Object.
+#
+
+name Lamp
+
+# Node.
+
+node Lamp -
+
+layers 1
+
+translate 4.076245 5.903862 -1.005454
+rotate 37.261049 106.936310 -3.163709
+scale 1.000000 1.000000 1.000000
+
+light Lamp
+
+#
+# Object.
+#
+
+name Camera
+
+# Node.
+
+node Camera -
+
+layers 1
+
+translate 7.481132 5.343665 6.507640
+rotate 63.559295 46.691945 -0.619765
+scale 1.000000 1.000000 1.000000
+
+camera Camera
+

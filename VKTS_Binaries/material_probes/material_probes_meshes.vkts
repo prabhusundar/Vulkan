@@ -1,0 +1,69 @@
+#
+# VulKan ToolS meshes.
+#
+
+submesh_library material_probes_submeshes.vkts
+
+#
+# Mesh.
+#
+
+name Floor_CyberWarrior
+
+submesh Floor_CyberWarrior_0
+
+aabb -0.000001 7.860420 0.584858 10.000002 7.860420 16.635670
+
+#
+# Mesh.
+#
+
+name MaterialProbe_Right
+
+submesh MaterialProbe_Right_0
+submesh MaterialProbe_Right_1
+
+aabb 0.000001 1.087232 -0.044104 1.000000 1.087233 0.998662
+
+#
+# Mesh.
+#
+
+name Floor_Probes
+
+submesh Floor_Probes_0
+
+aabb -0.000001 7.860420 0.584858 10.000002 7.860420 16.635670
+
+#
+# Mesh.
+#
+
+name CyberWarriorMesh
+
+submesh CyberWarriorMesh_0
+
+aabb 30.111843 2.737037 0.198076 1.252628 2.754258 1.402498
+
+#
+# Mesh.
+#
+
+name MaterialProbe_Middle
+
+submesh MaterialProbe_Middle_0
+submesh MaterialProbe_Middle_1
+
+aabb 0.000001 1.087232 -0.044104 1.000000 1.087233 0.998662
+
+#
+# Mesh.
+#
+
+name MaterialProbe_Left
+
+submesh MaterialProbe_Left_0
+submesh MaterialProbe_Left_1
+
+aabb 0.000001 1.087232 -0.044104 1.000000 1.087233 0.998662
+

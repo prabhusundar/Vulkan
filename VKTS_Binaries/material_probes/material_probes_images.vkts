@@ -1,0 +1,70 @@
+#
+# VulKan ToolS images.
+#
+
+#
+# Image.
+#
+
+name wood_color_image
+
+image_data wood_color.tga
+
+#
+# Image.
+#
+
+name steel_color_image
+
+image_data steel_color.tga
+
+#
+# Image.
+#
+
+name cyber_warrior_normal_image
+
+image_data cyber_warrior_normal.tga
+
+#
+# Image.
+#
+
+name cyber_warrior_diffuse_image
+
+image_data cyber_warrior_diffuse.tga
+
+#
+# Image.
+#
+
+name wood_normal_image
+
+image_data wood_normal.tga
+
+#
+# Image.
+#
+
+name pisa_image
+
+environment true
+pre_filtered true
+image_data pisa.tga
+
+#
+# Image.
+#
+
+name cyber_warrior_specular_image
+
+image_data cyber_warrior_specular.tga
+
+#
+# Image.
+#
+
+name steel_normal_image
+
+image_data steel_normal.tga
+

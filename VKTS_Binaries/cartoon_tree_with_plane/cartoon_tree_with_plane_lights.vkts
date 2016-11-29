@@ -1,0 +1,14 @@
+#
+# VulKan ToolS lights.
+#
+
+#
+# Light.
+#
+
+name Sun_Light
+
+type Directional
+
+color 1.000000 0.907832 0.484607
+

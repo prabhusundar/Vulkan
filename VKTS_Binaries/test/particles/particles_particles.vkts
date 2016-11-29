@@ -1,0 +1,29 @@
+#
+# VulKan ToolS particle systems.
+#
+
+#
+# Particle system.
+#
+
+name CubeParticleSettings
+
+emission_number 1000
+emission_start 0.000000
+emission_end 5.000000
+emission_lifetime 1.000000
+emission_random 0.500000
+emission_emit_from Faces
+
+velocity_normal_factor 4.000000
+velocity_object_align_factor 0.000000 0.000000 -0.000000
+velocity_factor_random 0.000000
+
+physics_particle_size 0.050000
+physics_size_random 0.000000
+physics_mass 1.000000
+physics_multiply_size_mass 0.000000
+
+render_type Object
+render_object ParticleNode
+

@@ -1,0 +1,798 @@
+#
+# VulKan ToolS textures.
+#
+
+image_library sponza_images.vkts
+
+#
+# Texture.
+#
+
+name Bump_005_texture
+
+mipmap true
+image background_ddn_image
+
+#
+# Texture.
+#
+
+name Bump_009_texture
+
+mipmap true
+image sponza_arch_ddn_image
+
+#
+# Texture.
+#
+
+name Ka_004_texture
+
+mipmap true
+image spnza_bricks_a_diff_image
+
+#
+# Texture.
+#
+
+name Ka_002_texture
+
+mipmap true
+image vase_plant_image
+
+#
+# Texture.
+#
+
+name Bump_019_texture
+
+mipmap true
+image vase_ddn_image
+
+#
+# Texture.
+#
+
+name Ka_021_texture
+
+mipmap true
+image vase_dif_image
+
+#
+# Texture.
+#
+
+name D_002_texture
+
+mipmap true
+image chain_texture_mask_image
+
+#
+# Texture.
+#
+
+name Ka_005_texture
+
+mipmap true
+image sponza_arch_diff_image
+
+#
+# Texture.
+#
+
+name Ks_003_texture
+
+mipmap true
+image spnza_bricks_a_spec_image
+
+#
+# Texture.
+#
+
+name Ks_009_texture
+
+mipmap true
+image sponza_details_spec_image
+
+#
+# Texture.
+#
+
+name Kd_006_texture
+
+mipmap true
+image sponza_ceiling_a_diff_image
+
+#
+# Texture.
+#
+
+name Ka_003_texture
+
+mipmap true
+image background_image
+
+#
+# Texture.
+#
+
+name Ks_011_texture
+
+mipmap true
+image sponza_flagpole_spec_image
+
+#
+# Texture.
+#
+
+name Kd_020_texture
+
+mipmap true
+image vase_hanging_image
+
+#
+# Texture.
+#
+
+name Kd_019_texture
+
+mipmap true
+image chain_texture_image
+
+#
+# Texture.
+#
+
+name Ka_017_texture
+
+mipmap true
+image sponza_curtain_diff_image
+
+#
+# Texture.
+#
+
+name Kd_003_texture
+
+mipmap true
+image background_image
+
+#
+# Texture.
+#
+
+name Kd_002_texture
+
+mipmap true
+image vase_plant_image
+
+#
+# Texture.
+#
+
+name Ka_023_texture
+
+mipmap true
+image sponza_roof_diff_image
+
+#
+# Texture.
+#
+
+name D_001_texture
+
+mipmap true
+image vase_plant_mask_image
+
+#
+# Texture.
+#
+
+name Ks_012_texture
+
+mipmap true
+image sponza_fabric_spec_image
+
+#
+# Texture.
+#
+
+name Bump_020_texture
+
+mipmap true
+image lion_ddn_image
+
+#
+# Texture.
+#
+
+name Bump_013_texture
+
+mipmap true
+image sponza_column_c_ddn_image
+
+#
+# Texture.
+#
+
+name Ka_010_texture
+
+mipmap true
+image sponza_details_diff_image
+
+#
+# Texture.
+#
+
+name Ka_015_texture
+
+mipmap true
+image sponza_fabric_diff_image
+
+#
+# Texture.
+#
+
+name Ks_005_texture
+
+mipmap true
+image sponza_ceiling_a_spec_image
+
+#
+# Texture.
+#
+
+name Ka_022_texture
+
+mipmap true
+image lion_image
+
+#
+# Texture.
+#
+
+name Kd_021_texture
+
+mipmap true
+image vase_dif_image
+
+#
+# Texture.
+#
+
+name Kd_007_texture
+
+mipmap true
+image sponza_column_a_diff_image
+
+#
+# Texture.
+#
+
+name Bump_004_texture
+
+mipmap true
+image background_ddn_image
+
+#
+# Texture.
+#
+
+name Kd_014_texture
+
+mipmap true
+image sponza_fabric_blue_diff_image
+
+#
+# Texture.
+#
+
+name Kd_011_texture
+
+mipmap true
+image sponza_column_b_diff_image
+
+#
+# Texture.
+#
+
+name Ka_020_texture
+
+mipmap true
+image vase_hanging_image
+
+#
+# Texture.
+#
+
+name Kd_023_texture
+
+mipmap true
+image sponza_roof_diff_image
+
+#
+# Texture.
+#
+
+name Ks_006_texture
+
+mipmap true
+image sponza_column_a_spec_image
+
+#
+# Texture.
+#
+
+name Ka_012_texture
+
+mipmap true
+image sponza_flagpole_diff_image
+
+#
+# Texture.
+#
+
+name Bump_001_texture
+
+mipmap true
+image sponza_thorn_ddn_image
+
+#
+# Texture.
+#
+
+name Ks_texture
+
+mipmap true
+image sponza_thorn_spec_image
+
+#
+# Texture.
+#
+
+name Ka_009_texture
+
+mipmap true
+image sponza_column_c_diff_image
+
+#
+# Texture.
+#
+
+name Ka_007_texture
+
+mipmap true
+image sponza_column_a_diff_image
+
+#
+# Texture.
+#
+
+name Bump_016_texture
+
+mipmap true
+image chain_texture_ddn_image
+
+#
+# Texture.
+#
+
+name Bump_texture
+
+mipmap true
+image sponza_thorn_ddn_image
+
+#
+# Texture.
+#
+
+name Ka_019_texture
+
+mipmap true
+image chain_texture_image
+
+#
+# Texture.
+#
+
+name Kd_009_texture
+
+mipmap true
+image sponza_column_c_diff_image
+
+#
+# Texture.
+#
+
+name Bump_018_texture
+
+mipmap true
+image vase_ddn_image
+
+#
+# Texture.
+#
+
+name Kd_010_texture
+
+mipmap true
+image sponza_details_diff_image
+
+#
+# Texture.
+#
+
+name Kd_008_texture
+
+mipmap true
+image sponza_floor_a_diff_image
+
+#
+# Texture.
+#
+
+name Ks_010_texture
+
+mipmap true
+image sponza_column_b_spec_image
+
+#
+# Texture.
+#
+
+name Kd_015_texture
+
+mipmap true
+image sponza_fabric_diff_image
+
+#
+# Texture.
+#
+
+name Bump_008_texture
+
+mipmap true
+image sponza_arch_ddn_image
+
+#
+# Texture.
+#
+
+name Ka_011_texture
+
+mipmap true
+image sponza_column_b_diff_image
+
+#
+# Texture.
+#
+
+name Ka_016_texture
+
+mipmap true
+image sponza_curtain_blue_diff_image
+
+#
+# Texture.
+#
+
+name Bump_012_texture
+
+mipmap true
+image sponza_column_c_ddn_image
+
+#
+# Texture.
+#
+
+name Ks_002_texture
+
+mipmap true
+image vase_plant_spec_image
+
+#
+# Texture.
+#
+
+name Ka_013_texture
+
+mipmap true
+image sponza_fabric_green_diff_image
+
+#
+# Texture.
+#
+
+name Ks_014_texture
+
+mipmap true
+image sponza_fabric_spec_image
+
+#
+# Texture.
+#
+
+name Bump_015_texture
+
+mipmap true
+image sponza_column_b_ddn_image
+
+#
+# Texture.
+#
+
+name Bump_006_texture
+
+mipmap true
+image spnza_bricks_a_ddn_image
+
+#
+# Texture.
+#
+
+name Ks_008_texture
+
+mipmap true
+image sponza_column_c_spec_image
+
+#
+# Texture.
+#
+
+name Ks_004_texture
+
+mipmap true
+image sponza_arch_spec_image
+
+#
+# Texture.
+#
+
+name Kd_017_texture
+
+mipmap true
+image sponza_curtain_diff_image
+
+#
+# Texture.
+#
+
+name Bump_007_texture
+
+mipmap true
+image spnza_bricks_a_ddn_image
+
+#
+# Texture.
+#
+
+name Ks_013_texture
+
+mipmap true
+image sponza_fabric_spec_image
+
+#
+# Texture.
+#
+
+name Ks_007_texture
+
+mipmap true
+image sponza_floor_a_spec_image
+
+#
+# Texture.
+#
+
+name Kd_012_texture
+
+mipmap true
+image sponza_flagpole_diff_image
+
+#
+# Texture.
+#
+
+name Ka_006_texture
+
+mipmap true
+image sponza_ceiling_a_diff_image
+
+#
+# Texture.
+#
+
+name Bump_011_texture
+
+mipmap true
+image sponza_column_a_ddn_image
+
+#
+# Texture.
+#
+
+name Bump_003_texture
+
+mipmap true
+image vase_round_ddn_image
+
+#
+# Texture.
+#
+
+name Kd_004_texture
+
+mipmap true
+image spnza_bricks_a_diff_image
+
+#
+# Texture.
+#
+
+name Kd_005_texture
+
+mipmap true
+image sponza_arch_diff_image
+
+#
+# Texture.
+#
+
+name Ka_texture
+
+mipmap true
+image sponza_thorn_diff_image
+
+#
+# Texture.
+#
+
+name Bump_010_texture
+
+mipmap true
+image sponza_column_a_ddn_image
+
+#
+# Texture.
+#
+
+name Bump_014_texture
+
+mipmap true
+image sponza_column_b_ddn_image
+
+#
+# Texture.
+#
+
+name Ka_001_texture
+
+mipmap true
+image vase_round_image
+
+#
+# Texture.
+#
+
+name Kd_018_texture
+
+mipmap true
+image sponza_curtain_green_diff_image
+
+#
+# Texture.
+#
+
+name Kd_texture
+
+mipmap true
+image sponza_thorn_diff_image
+
+#
+# Texture.
+#
+
+name Kd_016_texture
+
+mipmap true
+image sponza_curtain_blue_diff_image
+
+#
+# Texture.
+#
+
+name Bump_002_texture
+
+mipmap true
+image vase_round_ddn_image
+
+#
+# Texture.
+#
+
+name Kd_013_texture
+
+mipmap true
+image sponza_fabric_green_diff_image
+
+#
+# Texture.
+#
+
+name Kd_001_texture
+
+mipmap true
+image vase_round_image
+
+#
+# Texture.
+#
+
+name Ka_008_texture
+
+mipmap true
+image sponza_floor_a_diff_image
+
+#
+# Texture.
+#
+
+name Bump_021_texture
+
+mipmap true
+image lion_ddn_image
+
+#
+# Texture.
+#
+
+name Ka_014_texture
+
+mipmap true
+image sponza_fabric_blue_diff_image
+
+#
+# Texture.
+#
+
+name Ks_001_texture
+
+mipmap true
+image vase_round_spec_image
+
+#
+# Texture.
+#
+
+name Ka_018_texture
+
+mipmap true
+image sponza_curtain_green_diff_image
+
+#
+# Texture.
+#
+
+name Kd_022_texture
+
+mipmap true
+image lion_image
+
+#
+# Texture.
+#
+
+name Bump_017_texture
+
+mipmap true
+image chain_texture_ddn_image
+
+#
+# Texture.
+#
+
+name D_texture
+
+mipmap true
+image sponza_thorn_mask_image
+

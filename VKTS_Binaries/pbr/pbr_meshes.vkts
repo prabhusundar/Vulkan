@@ -1,0 +1,46 @@
+#
+# VulKan ToolS meshes.
+#
+
+submesh_library pbr_submeshes.vkts
+
+#
+# Mesh.
+#
+
+name Plane
+
+submesh Plane_0
+
+aabb 0.000000 0.000000 0.000000 1.000000 0.000000 1.000000
+
+#
+# Mesh.
+#
+
+name Sphere_Middle
+
+submesh Sphere_Middle_0
+
+aabb 0.000000 0.000000 0.000001 1.000000 1.000000 1.000000
+
+#
+# Mesh.
+#
+
+name Sphere_Left
+
+submesh Sphere_Left_0
+
+aabb 0.000000 0.000000 0.000001 1.000000 1.000000 1.000000
+
+#
+# Mesh.
+#
+
+name Sphere_Right
+
+submesh Sphere_Right_0
+
+aabb 0.000000 0.000000 0.000001 1.000000 1.000000 1.000000
+

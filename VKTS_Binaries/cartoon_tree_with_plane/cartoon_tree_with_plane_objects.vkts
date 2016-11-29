@@ -1,0 +1,152 @@
+#
+# VulKan ToolS objects.
+#
+
+camera_library cartoon_tree_with_plane_cameras.vkts
+
+light_library cartoon_tree_with_plane_lights.vkts
+
+particle_system_library cartoon_tree_with_plane_particles.vkts
+
+mesh_library cartoon_tree_with_plane_meshes.vkts
+
+animation_library cartoon_tree_with_plane_animations.vkts
+
+#
+# Object.
+#
+
+name Basement_Node
+
+# Node.
+
+node Basement_Node -
+
+layers 800
+
+translate 0.000000 0.000000 -0.000000
+rotate 0.000000 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh Basement_Mesh
+
+#
+# Object.
+#
+
+name Orbit_Node
+
+# Node.
+
+node Orbit_Node -
+
+layers 800
+
+translate 0.000000 2.600000 -0.000000
+rotate 0.000000 0.000000 -30.000001
+scale 1.000000 1.000000 1.000000
+
+# Node.
+
+node Animation_Node Orbit_Node
+
+layers 800
+
+translate 0.000000 0.000000 -0.000000
+rotate 0.000000 0.000000 0.000001
+scale 1.000000 1.000000 1.000000
+
+animation animation_Animation_Node
+
+# Node.
+
+node Plane_Node Animation_Node
+
+layers 800
+
+translate 3.000000 0.000000 -0.000000
+rotate 0.000000 0.000000 0.000001
+scale 1.000000 1.000000 1.000000
+
+mesh Plane_Mesh
+
+# Node.
+
+node Plane_Propeller_Node Plane_Node
+
+layers 800
+
+translate -0.000000 -0.000000 0.500000
+rotate 0.000000 0.000000 29.999994
+scale 1.000000 1.000000 1.000000
+
+mesh Plane_Propeller_Mesh
+
+animation animation_Plane_Propeller_Node
+
+#
+# Object.
+#
+
+name Camera
+
+# Node.
+
+node Camera -
+
+layers 1
+
+translate 0.000000 4.000000 12.000000
+rotate 80.000005 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+camera Camera
+
+#
+# Object.
+#
+
+name Tree_Node
+
+# Node.
+
+node Tree_Node -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 0.000000 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh Trunk_Mesh
+
+# Node.
+
+node Leaf_Node Tree_Node
+
+layers 400
+
+translate 0.000000 2.600000 -0.000000
+rotate 0.000000 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh Leaf_Mesh
+
+#
+# Object.
+#
+
+name Light_Node
+
+# Node.
+
+node Light_Node -
+
+layers 200
+
+translate -10.000000 10.000000 10.000000
+rotate 45.000001 -45.000001 0.000000
+scale 1.000000 1.000000 1.000000
+
+light Sun_Light
+

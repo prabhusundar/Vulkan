@@ -1,0 +1,122 @@
+#
+# VulKan ToolS objects.
+#
+
+camera_library pbr_cameras.vkts
+
+light_library pbr_lights.vkts
+
+particle_system_library pbr_particles.vkts
+
+mesh_library pbr_meshes.vkts
+
+animation_library pbr_animations.vkts
+
+#
+# Object.
+#
+
+name Plane
+
+# Node.
+
+node Plane -
+
+layers 1
+
+translate 0.000000 0.000000 -4.000000
+rotate 0.000000 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh Plane
+
+#
+# Object.
+#
+
+name Point
+
+# Node.
+
+node Point -
+
+layers 1
+
+translate -4.000000 4.000000 4.000000
+rotate 0.000000 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+light Point
+
+#
+# Object.
+#
+
+name Sphere_Left
+
+# Node.
+
+node Sphere_Left -
+
+layers 1
+
+translate -4.000000 0.000000 -0.000000
+rotate 0.000000 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh Sphere_Left
+
+#
+# Object.
+#
+
+name Sphere_Right
+
+# Node.
+
+node Sphere_Right -
+
+layers 1
+
+translate 4.000000 0.000000 -0.000000
+rotate 0.000000 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh Sphere_Right
+
+#
+# Object.
+#
+
+name Sphere_Middle
+
+# Node.
+
+node Sphere_Middle -
+
+layers 1
+
+translate 0.000000 0.000000 -0.000000
+rotate 0.000000 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh Sphere_Middle
+
+#
+# Object.
+#
+
+name Camera
+
+# Node.
+
+node Camera -
+
+layers 1
+
+translate 7.310699 5.964571 8.742315
+rotate 63.559295 36.102532 -0.619770
+scale 1.000000 1.000000 1.000000
+
+camera Camera
+

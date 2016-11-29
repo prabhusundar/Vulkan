@@ -1,0 +1,44 @@
+#
+# VulKan ToolS scene.
+#
+
+scene_name Scene
+
+object_library sphere_objects.vkts
+
+#
+# Object instance.
+#
+
+object Sphere
+
+name Sphere
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object Lamp
+
+name Lamp
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object Camera
+
+name Camera
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+

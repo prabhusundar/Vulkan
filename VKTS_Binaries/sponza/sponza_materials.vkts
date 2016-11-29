@@ -1,0 +1,542 @@
+#
+# VulKan ToolS materials.
+#
+
+texture_library sponza_textures.vkts
+
+#
+# Material.
+#
+
+shading Phong true
+
+name fabric_c
+
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+normal_vector 0.0 0.0 1.0
+phong_ambient_texture Ka_017_texture
+phong_diffuse_texture Kd_017_texture
+phong_specular_color 0.000000 0.000000 0.000000
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name fabric_e
+
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+normal_vector 0.0 0.0 1.0
+phong_ambient_texture Ka_013_texture
+phong_diffuse_texture Kd_013_texture
+phong_specular_texture Ks_012_texture
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name floor
+
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+normal_vector 0.0 0.0 1.0
+phong_ambient_texture Ka_008_texture
+phong_diffuse_texture Kd_008_texture
+phong_specular_texture Ks_007_texture
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name fabric_a
+
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+normal_vector 0.0 0.0 1.0
+phong_ambient_texture Ka_015_texture
+phong_diffuse_texture Kd_015_texture
+phong_specular_texture Ks_014_texture
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name arch
+
+normal_texture Bump_008_texture
+normal_texture Bump_009_texture
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+phong_ambient_texture Ka_005_texture
+phong_diffuse_texture Kd_005_texture
+phong_specular_texture Ks_004_texture
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name flagpole
+
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+normal_vector 0.0 0.0 1.0
+phong_ambient_texture Ka_012_texture
+phong_diffuse_texture Kd_012_texture
+phong_specular_texture Ks_011_texture
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name vase_round
+
+normal_texture Bump_002_texture
+normal_texture Bump_003_texture
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+phong_ambient_texture Ka_001_texture
+phong_diffuse_texture Kd_001_texture
+phong_specular_texture Ks_001_texture
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name fabric_f
+
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+normal_vector 0.0 0.0 1.0
+phong_ambient_texture Ka_018_texture
+phong_diffuse_texture Kd_018_texture
+phong_specular_color 0.000000 0.000000 0.000000
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name fabric_g
+
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+normal_vector 0.0 0.0 1.0
+phong_ambient_texture Ka_016_texture
+phong_diffuse_texture Kd_016_texture
+phong_specular_color 0.000000 0.000000 0.000000
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name leaf
+
+alpha_texture D_texture
+normal_texture Bump_texture
+normal_texture Bump_001_texture
+emissive_color 0.000000 0.000000 0.000000
+displacement_value 0.0
+phong_ambient_texture Ka_texture
+phong_diffuse_texture Kd_texture
+phong_specular_texture Ks_texture
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name Material__47
+
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+normal_vector 0.0 0.0 1.0
+phong_ambient_color 0.000000 0.000000 0.000000
+phong_diffuse_color 0.588000 0.588000 0.588000
+phong_specular_color 0.000000 0.000000 0.000000
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name Material__298
+
+normal_texture Bump_004_texture
+normal_texture Bump_005_texture
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+phong_ambient_texture Ka_003_texture
+phong_diffuse_texture Kd_003_texture
+phong_specular_color 0.000000 0.000000 0.000000
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name chain
+
+alpha_texture D_002_texture
+normal_texture Bump_016_texture
+normal_texture Bump_017_texture
+emissive_color 0.000000 0.000000 0.000000
+displacement_value 0.0
+phong_ambient_texture Ka_019_texture
+phong_diffuse_texture Kd_019_texture
+phong_specular_color 0.000000 0.000000 0.000000
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name bricks
+
+normal_texture Bump_006_texture
+normal_texture Bump_007_texture
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+phong_ambient_texture Ka_004_texture
+phong_diffuse_texture Kd_004_texture
+phong_specular_texture Ks_003_texture
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name ceiling
+
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+normal_vector 0.0 0.0 1.0
+phong_ambient_texture Ka_006_texture
+phong_diffuse_texture Kd_006_texture
+phong_specular_texture Ks_005_texture
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name column_c
+
+normal_texture Bump_012_texture
+normal_texture Bump_013_texture
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+phong_ambient_texture Ka_009_texture
+phong_diffuse_texture Kd_009_texture
+phong_specular_texture Ks_008_texture
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name details
+
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+normal_vector 0.0 0.0 1.0
+phong_ambient_texture Ka_010_texture
+phong_diffuse_texture Kd_010_texture
+phong_specular_texture Ks_009_texture
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name Material__57
+
+alpha_texture D_001_texture
+emissive_color 0.000000 0.000000 0.000000
+displacement_value 0.0
+normal_vector 0.0 0.0 1.0
+phong_ambient_texture Ka_002_texture
+phong_diffuse_texture Kd_002_texture
+phong_specular_texture Ks_002_texture
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name fabric_d
+
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+normal_vector 0.0 0.0 1.0
+phong_ambient_texture Ka_014_texture
+phong_diffuse_texture Kd_014_texture
+phong_specular_texture Ks_013_texture
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name vase_hanging
+
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+normal_vector 0.0 0.0 1.0
+phong_ambient_texture Ka_020_texture
+phong_diffuse_texture Kd_020_texture
+phong_specular_color 0.000000 0.000000 0.000000
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name roof
+
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+normal_vector 0.0 0.0 1.0
+phong_ambient_texture Ka_023_texture
+phong_diffuse_texture Kd_023_texture
+phong_specular_color 0.000000 0.000000 0.000000
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name Material__25
+
+normal_texture Bump_020_texture
+normal_texture Bump_021_texture
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+phong_ambient_texture Ka_022_texture
+phong_diffuse_texture Kd_022_texture
+phong_specular_color 0.000000 0.000000 0.000000
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name column_a
+
+normal_texture Bump_010_texture
+normal_texture Bump_011_texture
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+phong_ambient_texture Ka_007_texture
+phong_diffuse_texture Kd_007_texture
+phong_specular_texture Ks_006_texture
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name vase
+
+normal_texture Bump_018_texture
+normal_texture Bump_019_texture
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+phong_ambient_texture Ka_021_texture
+phong_diffuse_texture Kd_021_texture
+phong_specular_color 0.000000 0.000000 0.000000
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+
+#
+# Material.
+#
+
+shading Phong true
+
+name column_b
+
+normal_texture Bump_014_texture
+normal_texture Bump_015_texture
+emissive_color 0.000000 0.000000 0.000000
+alpha_value 1.000000
+displacement_value 0.0
+phong_ambient_texture Ka_011_texture
+phong_diffuse_texture Kd_011_texture
+phong_specular_texture Ks_010_texture
+phong_specular_shininess_value 0.009804
+phong_mirror_color 0.588000 0.588000 0.588000
+phong_mirror_reflectivity_value 0.000000
+
+transparent true
+

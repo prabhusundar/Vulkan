@@ -1,0 +1,1224 @@
+#
+# VulKan ToolS animations.
+#
+
+channel_library material_probes_channels.vkts
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:Hips
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:Hips
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:Hips
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:Hips
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:Hips
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:Hips
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:Hips
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:Hips
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:Hips
+channel channel_SCALE_Y_Cyber_warrior_for_substance:Hips
+channel channel_SCALE_Z_Cyber_warrior_for_substance:Hips
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:Spine
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:Spine
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:Spine
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:Spine
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:Spine
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:Spine
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:Spine
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:Spine
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:Spine
+channel channel_SCALE_Y_Cyber_warrior_for_substance:Spine
+channel channel_SCALE_Z_Cyber_warrior_for_substance:Spine
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:Spine1
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:Spine1
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:Spine1
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:Spine1
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:Spine1
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:Spine1
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:Spine1
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:Spine1
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:Spine1
+channel channel_SCALE_Y_Cyber_warrior_for_substance:Spine1
+channel channel_SCALE_Z_Cyber_warrior_for_substance:Spine1
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:Spine2
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:Spine2
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:Spine2
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:Spine2
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:Spine2
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:Spine2
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:Spine2
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:Spine2
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:Spine2
+channel channel_SCALE_Y_Cyber_warrior_for_substance:Spine2
+channel channel_SCALE_Z_Cyber_warrior_for_substance:Spine2
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:Neck
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:Neck
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:Neck
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:Neck
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:Neck
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:Neck
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:Neck
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:Neck
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:Neck
+channel channel_SCALE_Y_Cyber_warrior_for_substance:Neck
+channel channel_SCALE_Z_Cyber_warrior_for_substance:Neck
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:Head
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:Head
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:Head
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:Head
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:Head
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:Head
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:Head
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:Head
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:Head
+channel channel_SCALE_Y_Cyber_warrior_for_substance:Head
+channel channel_SCALE_Z_Cyber_warrior_for_substance:Head
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftShoulder
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftShoulder
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftShoulder
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftShoulder
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftShoulder
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftShoulder
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftShoulder
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftShoulder
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftShoulder
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftShoulder
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftShoulder
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftArm
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftArm
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftArm
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftArm
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftArm
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftArm
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftArm
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftArm
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftArm
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftArm
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftArm
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftForeArm
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftForeArm
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftForeArm
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftForeArm
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftForeArm
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftForeArm
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftForeArm
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftForeArm
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftForeArm
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftForeArm
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftForeArm
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftHand
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftHand
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftHand
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftHand
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftHand
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftHand
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftHand
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftHand
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftHand
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftHand
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftHand
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftHandThumb1
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftHandThumb1
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftHandThumb1
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftHandThumb1
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftHandThumb1
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftHandThumb1
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftHandThumb1
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftHandThumb1
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftHandThumb1
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftHandThumb1
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftHandThumb1
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftHandThumb2
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftHandThumb2
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftHandThumb2
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftHandThumb2
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftHandThumb2
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftHandThumb2
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftHandThumb2
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftHandThumb2
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftHandThumb2
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftHandThumb2
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftHandThumb2
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftHandIndex1
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftHandIndex1
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftHandIndex1
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftHandIndex1
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftHandIndex1
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftHandIndex1
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftHandIndex1
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftHandIndex1
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftHandIndex1
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftHandIndex1
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftHandIndex1
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftHandIndex2
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftHandIndex2
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftHandIndex2
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftHandIndex2
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftHandIndex2
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftHandIndex2
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftHandIndex2
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftHandIndex2
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftHandIndex2
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftHandIndex2
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftHandIndex2
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftHandMiddle1
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftHandMiddle1
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftHandMiddle1
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftHandMiddle1
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftHandMiddle1
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftHandMiddle1
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftHandMiddle1
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftHandMiddle1
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftHandMiddle1
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftHandMiddle1
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftHandMiddle1
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftHandMiddle2
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftHandMiddle2
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftHandMiddle2
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftHandMiddle2
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftHandMiddle2
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftHandMiddle2
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftHandMiddle2
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftHandMiddle2
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftHandMiddle2
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftHandMiddle2
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftHandMiddle2
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftHandRing1
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftHandRing1
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftHandRing1
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftHandRing1
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftHandRing1
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftHandRing1
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftHandRing1
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftHandRing1
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftHandRing1
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftHandRing1
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftHandRing1
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftHandRing2
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftHandRing2
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftHandRing2
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftHandRing2
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftHandRing2
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftHandRing2
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftHandRing2
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftHandRing2
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftHandRing2
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftHandRing2
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftHandRing2
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftHandPinky1
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftHandPinky1
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftHandPinky1
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftHandPinky1
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftHandPinky1
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftHandPinky1
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftHandPinky1
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftHandPinky1
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftHandPinky1
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftHandPinky1
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftHandPinky1
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftHandPinky2
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftHandPinky2
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftHandPinky2
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftHandPinky2
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftHandPinky2
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftHandPinky2
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftHandPinky2
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftHandPinky2
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftHandPinky2
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftHandPinky2
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftHandPinky2
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightShoulder
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightShoulder
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightShoulder
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightShoulder
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightShoulder
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightShoulder
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightShoulder
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightShoulder
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightShoulder
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightShoulder
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightShoulder
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightArm
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightArm
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightArm
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightArm
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightArm
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightArm
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightArm
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightArm
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightArm
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightArm
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightArm
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightForeArm
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightForeArm
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightForeArm
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightForeArm
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightForeArm
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightForeArm
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightForeArm
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightForeArm
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightForeArm
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightForeArm
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightForeArm
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightHand
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightHand
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightHand
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightHand
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightHand
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightHand
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightHand
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightHand
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightHand
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightHand
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightHand
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightHandThumb1
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightHandThumb1
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightHandThumb1
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightHandThumb1
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightHandThumb1
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightHandThumb1
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightHandThumb1
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightHandThumb1
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightHandThumb1
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightHandThumb1
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightHandThumb1
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightHandThumb2
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightHandThumb2
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightHandThumb2
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightHandThumb2
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightHandThumb2
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightHandThumb2
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightHandThumb2
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightHandThumb2
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightHandThumb2
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightHandThumb2
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightHandThumb2
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightHandIndex1
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightHandIndex1
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightHandIndex1
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightHandIndex1
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightHandIndex1
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightHandIndex1
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightHandIndex1
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightHandIndex1
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightHandIndex1
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightHandIndex1
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightHandIndex1
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightHandIndex2
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightHandIndex2
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightHandIndex2
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightHandIndex2
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightHandIndex2
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightHandIndex2
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightHandIndex2
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightHandIndex2
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightHandIndex2
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightHandIndex2
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightHandIndex2
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightHandMiddle1
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightHandMiddle1
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightHandMiddle1
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightHandMiddle1
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightHandMiddle1
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightHandMiddle1
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightHandMiddle1
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightHandMiddle1
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightHandMiddle1
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightHandMiddle1
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightHandMiddle1
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightHandMiddle2
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightHandMiddle2
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightHandMiddle2
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightHandMiddle2
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightHandMiddle2
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightHandMiddle2
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightHandMiddle2
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightHandMiddle2
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightHandMiddle2
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightHandMiddle2
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightHandMiddle2
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightHandRing1
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightHandRing1
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightHandRing1
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightHandRing1
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightHandRing1
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightHandRing1
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightHandRing1
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightHandRing1
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightHandRing1
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightHandRing1
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightHandRing1
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightHandRing2
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightHandRing2
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightHandRing2
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightHandRing2
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightHandRing2
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightHandRing2
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightHandRing2
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightHandRing2
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightHandRing2
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightHandRing2
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightHandRing2
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightHandPinky1
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightHandPinky1
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightHandPinky1
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightHandPinky1
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightHandPinky1
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightHandPinky1
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightHandPinky1
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightHandPinky1
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightHandPinky1
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightHandPinky1
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightHandPinky1
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightHandPinky2
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightHandPinky2
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightHandPinky2
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightHandPinky2
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightHandPinky2
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightHandPinky2
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightHandPinky2
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightHandPinky2
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightHandPinky2
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightHandPinky2
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightHandPinky2
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftUpLeg
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftUpLeg
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftUpLeg
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftUpLeg
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftUpLeg
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftUpLeg
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftUpLeg
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftUpLeg
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftUpLeg
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftUpLeg
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftUpLeg
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftLeg
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftLeg
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftLeg
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftLeg
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftLeg
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftLeg
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftLeg
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftLeg
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftLeg
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftLeg
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftLeg
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftFoot
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftFoot
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftFoot
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftFoot
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftFoot
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftFoot
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftFoot
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftFoot
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftFoot
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftFoot
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftFoot
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:LeftToeBase
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:LeftToeBase
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:LeftToeBase
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:LeftToeBase
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:LeftToeBase
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:LeftToeBase
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:LeftToeBase
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:LeftToeBase
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:LeftToeBase
+channel channel_SCALE_Y_Cyber_warrior_for_substance:LeftToeBase
+channel channel_SCALE_Z_Cyber_warrior_for_substance:LeftToeBase
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightUpLeg
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightUpLeg
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightUpLeg
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightUpLeg
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightUpLeg
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightUpLeg
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightUpLeg
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightUpLeg
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightUpLeg
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightUpLeg
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightUpLeg
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightLeg
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightLeg
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightLeg
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightLeg
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightLeg
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightLeg
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightLeg
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightLeg
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightLeg
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightLeg
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightLeg
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightFoot
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightFoot
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightFoot
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightFoot
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightFoot
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightFoot
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightFoot
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightFoot
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightFoot
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightFoot
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightFoot
+
+#
+# Animation.
+#
+
+name animation_Cyber_warrior_for_substance:RightToeBase
+
+start 0.016667
+stop 3.216667
+
+
+# Translate.
+
+channel channel_TRANSLATE_X_Cyber_warrior_for_substance:RightToeBase
+channel channel_TRANSLATE_Y_Cyber_warrior_for_substance:RightToeBase
+channel channel_TRANSLATE_Z_Cyber_warrior_for_substance:RightToeBase
+
+# Quaternion_Rotate.
+
+channel channel_QUATERNION_ROTATE_X_Cyber_warrior_for_substance:RightToeBase
+channel channel_QUATERNION_ROTATE_Y_Cyber_warrior_for_substance:RightToeBase
+channel channel_QUATERNION_ROTATE_Z_Cyber_warrior_for_substance:RightToeBase
+channel channel_QUATERNION_ROTATE_W_Cyber_warrior_for_substance:RightToeBase
+
+# Scale.
+
+channel channel_SCALE_X_Cyber_warrior_for_substance:RightToeBase
+channel channel_SCALE_Y_Cyber_warrior_for_substance:RightToeBase
+channel channel_SCALE_Z_Cyber_warrior_for_substance:RightToeBase
+

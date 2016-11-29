@@ -1,0 +1,112 @@
+#
+# VulKan ToolS scene.
+#
+
+scene_name Scene
+
+object_library material_probes_objects.vkts
+
+#
+# Object instance.
+#
+
+object Floor_CyberWarrior
+
+name Floor_CyberWarrior
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object MaterialProbe_Left
+
+name MaterialProbe_Left
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object MaterialProbe_Right
+
+name MaterialProbe_Right
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object MaterialProbe_Middle
+
+name MaterialProbe_Middle
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object Lamp
+
+name Lamp
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object Floor_Probes
+
+name Floor_Probes
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object Camera
+
+name Camera
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Object instance.
+#
+
+object CyberWarriorNode
+
+name CyberWarriorNode
+
+translate 0.0 0.0 0.0
+rotate 0.0 0.0 0.0
+scale 1.0 1.0 1.0
+
+#
+# Environment texture.
+#
+
+environment Environment_Texture_texture
+
+texture Environment_Texture_texture
+

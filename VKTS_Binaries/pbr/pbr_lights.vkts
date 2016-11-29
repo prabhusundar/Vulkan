@@ -1,0 +1,17 @@
+#
+# VulKan ToolS lights.
+#
+
+#
+# Light.
+#
+
+name Point
+
+type Point
+
+falloff Quadratic
+strength 1000.000000
+
+color 1.000000 1.000000 1.000000
+

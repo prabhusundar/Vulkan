@@ -1,0 +1,16 @@
+#
+# VulKan ToolS cameras.
+#
+
+#
+# Camera.
+#
+
+name Camera
+
+type Perspective
+
+znear 0.100000
+zfar 100.000000
+
+fovy 27.638067

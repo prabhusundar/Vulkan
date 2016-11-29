@@ -1,0 +1,72 @@
+#
+# VulKan ToolS textures.
+#
+
+image_library material_probes_images.vkts
+
+#
+# Texture.
+#
+
+name MetalMaterial_Image_Texture_texture
+
+image steel_color_image
+
+#
+# Texture.
+#
+
+name CyberWarriorMaterial_Image_Texture_001_texture
+
+image cyber_warrior_normal_image
+
+#
+# Texture.
+#
+
+name WoodMaterial_Image_Texture_texture
+
+image wood_color_image
+
+#
+# Texture.
+#
+
+name CyberWarriorMaterial_Image_Texture_texture
+
+image cyber_warrior_diffuse_image
+
+#
+# Texture.
+#
+
+name CyberWarriorMaterial_Image_Texture_002_texture
+
+image cyber_warrior_specular_image
+
+#
+# Texture.
+#
+
+name WoodMaterial_Image_Texture_001_texture
+
+image wood_normal_image
+
+#
+# Texture.
+#
+
+name MetalMaterial_Image_Texture_001_texture
+
+image steel_normal_image
+
+#
+# Environment Texture.
+#
+
+name Environment_Texture_texture
+
+environment true
+pre_filtered true
+image pisa_image
+

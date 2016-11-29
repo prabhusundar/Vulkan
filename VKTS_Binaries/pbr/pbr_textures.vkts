@@ -1,0 +1,16 @@
+#
+# VulKan ToolS textures.
+#
+
+image_library pbr_images.vkts
+
+#
+# Environment Texture.
+#
+
+name Environment_Texture_texture
+
+environment true
+pre_filtered true
+image ennis_image
+

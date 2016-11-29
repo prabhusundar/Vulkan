@@ -1,0 +1,14 @@
+#
+# VulKan ToolS images.
+#
+
+#
+# Image.
+#
+
+name ennis_image
+
+environment true
+pre_filtered true
+image_data ennis.hdr
+

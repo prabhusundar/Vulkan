@@ -1,0 +1,20 @@
+#
+# VulKan ToolS animations.
+#
+
+channel_library constraints_channels.vkts
+
+#
+# Animation.
+#
+
+name animation_Gear
+
+start 0.000000
+stop 3.000000
+
+
+# Rotate.
+
+channel channel_ROTATE_Y_Gear
+

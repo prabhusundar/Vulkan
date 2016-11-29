@@ -1,0 +1,14 @@
+#
+# VulKan ToolS lights.
+#
+
+#
+# Light.
+#
+
+name Lamp
+
+type Directional
+
+color 1.000000 1.000000 1.000000
+

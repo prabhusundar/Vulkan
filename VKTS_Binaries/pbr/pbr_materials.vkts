@@ -1,0 +1,54 @@
+#
+# VulKan ToolS materials.
+#
+
+texture_library pbr_textures.vkts
+
+#
+# Material.
+#
+
+shading BSDF false
+
+name Red
+
+fragment_shader Red.frag.spv
+
+attributes 3
+
+#
+# Material.
+#
+
+shading BSDF false
+
+name Blue
+
+fragment_shader Blue.frag.spv
+
+attributes 3
+
+#
+# Material.
+#
+
+shading BSDF false
+
+name Parallax
+
+fragment_shader Parallax.frag.spv
+
+attributes 1f
+
+#
+# Material.
+#
+
+shading BSDF false
+
+name Green
+
+fragment_shader Green.frag.spv
+
+attributes 3
+

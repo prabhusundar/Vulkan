@@ -1,0 +1,26 @@
+#
+# VulKan ToolS meshes.
+#
+
+submesh_library constraints_submeshes.vkts
+
+#
+# Mesh.
+#
+
+name Gear
+
+submesh Gear_0
+
+aabb 0.000000 0.000000 0.000000 1.850656 0.500000 1.850656
+
+#
+# Mesh.
+#
+
+name Gear_Attached
+
+submesh Gear_Attached_0
+
+aabb 0.000000 0.000000 0.000000 1.850656 0.500000 1.850656
+

@@ -1,0 +1,89 @@
+#
+# VulKan ToolS objects.
+#
+
+camera_library particles_cameras.vkts
+
+light_library particles_lights.vkts
+
+particle_system_library particles_particles.vkts
+
+mesh_library particles_meshes.vkts
+
+animation_library particles_animations.vkts
+
+#
+# Object.
+#
+
+name EmitterNode
+
+# Node.
+
+node EmitterNode -
+
+layers 1
+
+particle_system CubeParticleSettings
+seed 0
+
+translate 0.000000 0.000000 -0.000000
+rotate 0.000000 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh EmitterDome
+
+#
+# Object.
+#
+
+name ParticleNode
+
+# Node.
+
+node ParticleNode -
+
+layers 2
+
+translate 0.000000 0.000000 -0.000000
+rotate 0.000000 0.000000 0.000000
+scale 1.000000 1.000000 1.000000
+
+mesh ParticleCube
+
+#
+# Object.
+#
+
+name Lamp
+
+# Node.
+
+node Lamp -
+
+layers 1
+
+translate 4.076245 5.903862 -1.005454
+rotate 37.261049 106.936310 -3.163709
+scale 1.000000 1.000000 1.000000
+
+light Lamp
+
+#
+# Object.
+#
+
+name Camera
+
+# Node.
+
+node Camera -
+
+layers 1
+
+translate 7.481132 5.343665 6.507640
+rotate 63.559295 46.691945 -0.619765
+scale 1.000000 1.000000 1.000000
+
+camera Camera
+

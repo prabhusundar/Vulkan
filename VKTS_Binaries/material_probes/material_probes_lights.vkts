@@ -1,0 +1,17 @@
+#
+# VulKan ToolS lights.
+#
+
+#
+# Light.
+#
+
+name Lamp
+
+type Point
+
+falloff Constant
+strength 10.000000
+
+color 1.000000 1.000000 1.000000
+
